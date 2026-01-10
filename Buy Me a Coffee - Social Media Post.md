@@ -10,7 +10,7 @@ aliases:
   - Buy Me a Coffee Ask
   - Pro Bono Support Post
 categories:
-status-1:
+status-1: Posted
 ---
 Bold ask coming!
 
