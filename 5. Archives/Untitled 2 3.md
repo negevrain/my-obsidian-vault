@@ -1,0 +1,3 @@
+Let’s welcome our new members to Sabbath Holy! We’re thrilled to have you join our community of Sabbath Keepers. What brought you here? Please post a quick intro. We’d love to know more about you and how you keep the Sabbath holy.
+
+It’s exciting to see our community growing. Let’s make this group even bigger and better—please take a few moments to invite your fellow Sabbath Keeping friends to join us.

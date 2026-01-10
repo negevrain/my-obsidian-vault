@@ -1,0 +1,4 @@
+1.	God expects something that will bring glory to him—mediocrity doesn’t cut it. Look at creation. Beauty, excellence—
+2.	God will choose (call) the people he needs to achieve His plans and purposes. It’s okay to ask God to bring the skilled and gifted…
+3.	God equips those he calls—filled with the Holy Spirit, imbued with the talent and skills, wisdom and experience needed to do the Job.
+4.	God expects us to pour ourselves into others. Bezalel and Oboliab built a team, but more than that, they trained their teams to do the job… and given the expectations God had for the tabernacle, it meant that team members needed to be trained to do the job as well as B&O

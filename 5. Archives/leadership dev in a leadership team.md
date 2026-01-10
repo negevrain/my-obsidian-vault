@@ -1,0 +1,1 @@
+However, to truly understand and incorporate Jesus leadership dev model into our organisations, we need to Take a little time to consider the context of Jesus model that could easily be overlooked. Namely, that the discipleship journey aka leadership dev happens best in the context of a leadership team. 

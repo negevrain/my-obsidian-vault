@@ -1,0 +1,1 @@
+https://careynieuwhof.com/church-mission-statements/

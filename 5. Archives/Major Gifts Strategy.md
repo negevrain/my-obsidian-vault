@@ -1,0 +1,6 @@
+People give to what their hearts are aligned to...
+
+Tie major gifts to organisational renewal - investing back into fundraising, governance. What is the donor committing to... 3 year giving plan...
+
+Focus on non-appeal donor connections in Feb to Apr, Aug & Sept
+

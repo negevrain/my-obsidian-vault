@@ -1,0 +1,3 @@
+- Written communications
+- Ability to see a way forward — 
+- Operate an organisation on the smell of an oily rag —

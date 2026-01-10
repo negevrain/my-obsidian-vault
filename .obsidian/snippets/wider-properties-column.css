@@ -1,0 +1,4 @@
+/* Widen property key/label column in core Properties view */
+body {
+    --metadata-label-width: 200px;  /* Crank higher if needed – 400px+ for super long names */
+}

@@ -1,0 +1,8 @@
+views:
+  - type: tasknotesKanban
+    name: Homepage
+    groupBy:
+      property: tags
+      direction: ASC
+    indentProperties: true
+    markers: bullet

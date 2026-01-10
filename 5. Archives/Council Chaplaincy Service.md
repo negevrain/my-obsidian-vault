@@ -1,0 +1,4 @@
+---
+Favorite: false
+Status: Draft
+---

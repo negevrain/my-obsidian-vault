@@ -1,0 +1,1 @@
+When it’s time to know the Father, he will already know you.

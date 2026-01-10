@@ -1,0 +1,16 @@
+---
+category:
+---
+- [ ] Move house onto property before Christmas
+- [ ] ⏫ Launch new high-ticket leadership coaching program — Ripple Coaching Program
+- [ ] ⏫ Recruit 10 new coaching clients at $300 to $500 per session
+- [ ] 🔼 Purchase tractor (new or secondhand…?)
+- [ ] 10 supervision clients/sessions per month.
+- [ ] ⏫ Play golf at least 2-3 times per month
+- [ ] 30 minute gym workout 3-5 times a week
+- [ ] Serve 1 pro bono client at a time
+- [ ] Concrete both remaining bays in 3-bay
+- [ ] Finish ceilings in house
+- [ ] Build our gym set.
+- [ ] Get entire property off grid
+- [ ] Get new tattoos, and current one fixed

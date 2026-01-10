@@ -1,0 +1,23 @@
+.dataview.table-view-table td ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  padding: 0.4em 0;
+  margin: 0;
+  align-items: center;
+}
+
+.dataview.table-view-table td li {
+  list-style: none !important;
+  background: var(--tag-background, var(--interactive-accent));
+  color: var(--tag-color, var(--text-on-accent));
+  padding: 0.3em 0.8em;
+  border-radius: 1em;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+/* Hover for pop */
+.dataview.table-view-table td li:hover {
+  opacity: 0.8;
+}

@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "dataview-tags-pills",
+    "dataview-tags-horizontal-pills",
+    "true-columns",
+    "wider-properties-column",
+    "notebook-navigator-calm"
+  ],
+  "accentColor": "#ff5100",
+  "interfaceFontFamily": "Arial",
+  "textFontFamily": "Arial",
+  "monospaceFontFamily": "Courier New",
+  "baseFontSize": 14,
+  "theme": "system"
+}

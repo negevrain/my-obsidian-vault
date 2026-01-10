@@ -1,0 +1,21 @@
+filters:
+  and:
+    - categories.contains(link("Recipes"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - cuisine
+      - rating
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.type: 99
+      note.cuisine: 161

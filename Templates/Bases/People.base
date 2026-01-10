@@ -1,0 +1,16 @@
+filters:
+  and:
+    - categories.contains(link("People"))
+    - '!file.name.contains("Template")'
+properties:
+  note.client_services:
+    displayName: Client Services
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - client_services

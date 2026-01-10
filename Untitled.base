@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: categories
+      direction: ASC
+  - type: cards
+    name: View
+    imageAspectRatio: 1.5
+    cardSize: 200
+    image: note.feature
+    imageFit: contain

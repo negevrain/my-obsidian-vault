@@ -1,0 +1,3 @@
+
+
+Hi Tracey my name is Ivan Green. I’m calling on behalf of 104.9 Lime FM. I’m just following up. I’m just helping the station out during their appeal which started this morning. Just wondering if you were aware of that. Perhaps you’ve seen a letter or an email about the appeal I’m just ringing to. I just rang to find out if you were in a position to support the station this year and and if so And to just inquire about what the station means to you if you’re able to you can call 8723 9996 or online at limefm.com.au. Thank you so much. God bless.

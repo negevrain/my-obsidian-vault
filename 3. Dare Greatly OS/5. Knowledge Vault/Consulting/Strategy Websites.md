@@ -1,0 +1,7 @@
+
+Stratechery.com
+
+
+clearthinking.co
+
+

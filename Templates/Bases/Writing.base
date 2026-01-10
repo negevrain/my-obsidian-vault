@@ -1,0 +1,16 @@
+filters:
+  and:
+    - categories.contains(link("Writing"))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - categories
+      - type
+      - topic
+      - status
+    columnSize:
+      file.name: 367
+      note.categories: 186
+      note.type: 123

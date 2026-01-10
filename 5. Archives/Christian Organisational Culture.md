@@ -1,0 +1,11 @@
+---
+Favorite: false
+Status: Draft
+Topics:
+  - Culture & Values
+---
+Jesus is the centre of the station. It’s because of Jesus that we do everything well…
+
+When you’re poking a hole in what goes to air, we’re poking holes in the people who worked hard to reach our city…
+
+Our job is to point people towards Jesus… so that He can save them, heal them, deliver them,  build them up…

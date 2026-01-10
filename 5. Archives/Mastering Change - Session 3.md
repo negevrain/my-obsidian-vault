@@ -1,0 +1,3 @@
+Mastering Change - Session 3
+
+The story of Xenophon is a challenge to not be a “victim”, or to play the victim card. It’s a reminder that our attitude and outlook matters more than the circumstances we face. And to knwo that even as we face dire circumstances, we’re not alone. God is not only with us, present in our circumstances, but goes ahead of us, and fights for us. Still. It’s hard to be assertive, t9 have the vision and courage to live well, when there is seemingly so much aga8nst us - 

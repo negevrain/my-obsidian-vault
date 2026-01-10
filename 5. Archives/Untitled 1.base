@@ -1,0 +1,16 @@
+filters:
+  and:
+    - type == ["prompts"]
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("AI")
+  - type: cards
+    name: Cards
+  - type: list
+    name: List
+    indentProperties: true
+  - type: tasknotesKanban
+    name: View

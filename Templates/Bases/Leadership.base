@@ -1,0 +1,11 @@
+filters:
+  and:
+    - categories.contains(link("Leadership"))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
+    columnSize:
+      file.name: 378

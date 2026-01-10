@@ -1,0 +1,3 @@
+1.	There are people willing to help, if you’re willing to accept the help.
+2.	The best leaders are also followers…
+3.	

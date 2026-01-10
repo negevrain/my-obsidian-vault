@@ -1,0 +1,13 @@
+- [ ] Start FB ads in January 2026. Consider Google Ads as well.
+- [[Set up Telegram as a mirror of Sabbath Holy FB group]]
+- [ ] Reactivate KTSH page and start inviting followers to join SH group on FB and Telegram.
+- [ ] Schedule post excerpts to Ray’s FB profile feed - add CTA, drive traffic to SH, include link to SH and reminder message (e.g., “make sure you join SH to see new content…”)
+- [ ] Identify new FB groups to add to current list for posting content to.
+- [ ] In SuSocial, set up posting to multiple FB groups while bypassing facebooks algorithms.
+- [ ] Cheat sheet for scheduling Facebook posts via SuSocial.
+- [ ] Send Ray draft versions of welcome message for new members.
+- [ ] Create a new member intro (a message that new members see when they visit the group for the first time)
+- [ ] Every 10th post to the full array of FB groups including Sabbath Holy—include an invite link to visit/join SH…
+- [ ] Suggest contacting group moderators/admins to get permission to include links to SH.
+- [ ] Talk to Rosie about scheduling time to cross reference sabbath holy members and Ray archer friends.
+- [ ] Check KTSH for overlap of friends.
