@@ -9,34 +9,15 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "company",
-          "2": "individual",
-          "3": ""
+          "1": "Draft",
+          "2": "Active",
+          "3": "Paused",
+          "4": "Completed",
+          "5": "Archived"
         }
       },
-      "name": "client_type",
-      "id": "5OqBmz",
-      "path": ""
-    },
-    {
-      "type": "Multi",
-      "tagName": "multi",
-      "icon": "bullet-list",
-      "tooltip": "Accepts multiple values from a list",
-      "colorClass": "multi",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
-          "1": "Advising",
-          "2": "Coaching",
-          "3": "Consulting",
-          "4": "Mentoring",
-          "5": "Supervision",
-          "6": "Training"
-        }
-      },
-      "name": "client_services",
-      "id": "BEjdw4",
+      "name": "Status",
+      "id": "JxtKSF",
       "path": ""
     },
     {
@@ -48,26 +29,31 @@
       "options": {
         "sourceType": "ValuesList",
         "valuesList": {
-          "1": "Lead",
-          "2": "Prospect",
-          "3": "Active",
-          "4": "On Hold",
-          "5": "Closed",
-          "6": "Archived"
+          "1": "Low",
+          "2": "Medium",
+          "3": "High",
+          "4": "Urgent"
         }
       },
-      "name": "client_status",
-      "id": "dHwAKW",
+      "name": "Priority",
+      "id": "yetHsW",
       "path": ""
     }
   ],
-  "fileClassQueries": [],
+  "fileClassQueries": [
+    {
+      "name": "Writing",
+      "id": "1",
+      "query": "dv.pages().where(p => p.categories && p.categories.includes(\"Writing\"))",
+      "fileClassName": "Writing"
+    }
+  ],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
   "classFilesPath": "System/FileClasses/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.8",
+  "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
@@ -86,11 +72,11 @@
     ".excalidraw.md"
   ],
   "fileIndexingExcludedRegex": [],
-  "frontmatterOnly": true,
+  "frontmatterOnly": false,
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": false,
   "fileClassIcon": "package",
   "isAutoCalculationEnabled": true,
-  "disableDataviewPrompt": false
+  "disableDataviewPrompt": true
 }

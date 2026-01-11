@@ -1,7 +1,7 @@
 ---
 Related Clients:
   - "[[92.9 Voice FM]]"
-  - "[[104.9 Lime FM]]"
+  - "[[2. Content/3. Dare Greatly OS/2. Clients/104.9 Lime FM]]"
   - "[[Darwin’s 97 Seven]]"
 ---
 Hi,

@@ -1,0 +1,1 @@
+May I be filled with kingdom power and grace. May I have the Holy Spirit walking alongside me (filled with the power of the HS), helping me, and the inner determination to live the kingdom life.

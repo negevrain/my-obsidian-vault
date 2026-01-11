@@ -1,5 +1,5 @@
 ---
-Client: "[[David Miles]]"
+Client: "[[2. Content/3. Dare Greatly OS/2. Clients/David Miles]]"
 Session_Date: 2022-05-13
 Session_Number:
 Duration: 90 minutes

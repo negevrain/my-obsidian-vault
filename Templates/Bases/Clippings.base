@@ -20,6 +20,8 @@ views:
       - published
       - created
     sort:
+      - property: published
+        direction: ASC
       - property: created
         direction: DESC
     columnSize:

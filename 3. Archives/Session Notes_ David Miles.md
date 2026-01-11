@@ -1,7 +1,7 @@
 ---
 aliases:
   - "Session Notes: David Miles"
-Client: "[[David Miles]]"
+Client: "[[2. Content/3. Dare Greatly OS/2. Clients/David Miles]]"
 ---
 
 Leaving for Lebanon- 6/6/2022 taking dad to Victoria first. Hand over to sister.
