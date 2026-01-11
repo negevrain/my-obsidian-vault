@@ -23,7 +23,7 @@ Related Projects:
   - "[[97 Seven Agenda & To Do List - Nov 3-7\\|97 Seven Agenda & To Do List - Nov 3-7]]"
   - "[[97 Seven - Donors from 2023 Supper\\|97 Seven - Donors from 2023 Supper]]"
 Vault Links:
-  - "[[Archives/Ideas for On-air Appeal\\|Ideas for On-air Appeal]]"
+  - "[[3. Archives/Ideas for On-air Appeal\\|Ideas for On-air Appeal]]"
 feature: System/Thumbnails/external/688ae43a077b4bb611d903649fa379a3.svg
 thumbnail: System/Thumbnails/external/688ae43a077b4bb611d903649fa379a3.svg
 ---
@@ -96,4 +96,4 @@ thumbnail: System/Thumbnails/external/688ae43a077b4bb611d903649fa379a3.svg
 
 |![](https://www.notion.so/icons/font_gray.svg)Asset|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Type|![](https://www.notion.so/icons/list_gray.svg)Topics|![](https://www.notion.so/icons/attachment_gray.svg)Original Source|![](https://www.notion.so/icons/calendar-day_gray.svg)Date Added|![](https://www.notion.so/icons/subtitles_gray.svg)Description|![](https://www.notion.so/icons/star_gray.svg)Favorite|![](https://www.notion.so/icons/calendar_gray.svg)Last Used|![](https://www.notion.so/icons/link_gray.svg)Link (URL)|![](https://www.notion.so/icons/priority-high_gray.svg)Priority|![](https://www.notion.so/icons/description_gray.svg)Prompt|![](https://www.notion.so/icons/calendar_gray.svg)Publication Date|![](https://www.notion.so/icons/description_gray.svg)Quote|![](https://www.notion.so/icons/categories_gray.svg)Related Areas|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Clients|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Initiatives|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Projects|![](https://www.notion.so/icons/description_gray.svg)Source|![](https://www.notion.so/icons/burst_gray.svg)Status|![](https://www.notion.so/icons/list_gray.svg)Tags|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|[[Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising||||[ ]||||||||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]||||Draft||
+|[[3. Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising||||[ ]||||||||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]||||Draft||

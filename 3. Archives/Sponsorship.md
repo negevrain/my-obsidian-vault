@@ -4,8 +4,8 @@ Status: Draft
 Topics:
   - Christian Media
 ---
-[[Archives/Telemarketer|Telemarketer]]
+[[3. Archives/Telemarketer|Telemarketer]]
 
 [[/72 Hour Sale|72 Hour Sale]]
 
-[[Archives/Sales Push Tasks|Sales Push Tasks]]
+[[3. Archives/Sales Push Tasks|Sales Push Tasks]]
