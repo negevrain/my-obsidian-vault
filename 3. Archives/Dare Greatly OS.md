@@ -118,7 +118,7 @@
 |[[3. Archives/Coaching Young Men\|Coaching Young Men]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/Idea for a new organisation\|Idea for a new organisation]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/School for ASD Kids\|School for ASD Kids]]|||Draft||||||[ ]|||||||||||
-|[[2. Content/3. Dare Greatly OS/5. Knowledge Vault/The DNA Course - Team Culture Workshop\|The DNA Course - Team Culture Workshop]]||Culture & Values, Team Development|Draft||||||[ ]|||||||||||
+|[[2. Content/2. Dare Greatly OS/5. Knowledge Vault/The DNA Course - Team Culture Workshop\|The DNA Course - Team Culture Workshop]]||Culture & Values, Team Development|Draft||||||[ ]|||||||||||
 |[[3. Archives/Mentoring Program for Young Men\|Mentoring Program for Young Men]]|||Draft||||||[ ]|||||||||||
 |[[Social Enterprise Idea\|Social Enterprise Idea]]|||Draft||||||[ ]|||||||||||
 |[[Ministry Idea - The Right Journey\|Ministry Idea - The Right Journey]]|||Draft||||||[ ]|||||||||||
@@ -300,11 +300,11 @@
 |[[3. Archives/Scripture Keys to Success\|Scripture Keys to Success]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/MY IMPOSSIBLE FIVE\|MY IMPOSSIBLE FIVE]]|||Draft||||||[ ]|||||||||||
 |[[/Untitled Note.26\|Untitled Note.26]]|||Draft||||||[ ]|||||||||||
-|[[2. Content/2. Personal Hub/My Life Goals\|My Life Goals]]|||Draft||||||[ ]|||||||||||
+|[[2. Content/1. Personal Hub/My Life Goals\|My Life Goals]]|||Draft||||||[ ]|||||||||||
 |[[My Prayer\|My Prayer]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/This Is Who I Am!\|This Is Who I Am!]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/Thoughts from Cam Venables\|Thoughts from Cam Venables]]|||Draft||||||[ ]|||||||||||
-|[[2. Content/2. Personal Hub/Untitled Note.9\|Untitled Note.9]]|||Draft||||||[ ]|||||||||||
+|[[2. Content/1. Personal Hub/Untitled Note.9\|Untitled Note.9]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/Scripture Promises\|Scripture Promises]]|||Draft||||||[ ]|||||||||||
 |[[3. Archives/My Gifts\|My Gifts]]|||Draft||||||[ ]|||||||||||
 |[[40-30-20-10 Plan\|40-30-20-10 Plan]]|||Draft||||||[ ]|||||||||||
