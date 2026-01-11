@@ -1,0 +1,27 @@
+# Obsidian device/workspace-specific files (causes conflicts across machines)
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Full Obsidian config folder (ignore everything by default)
+.obsidian/*
+# ...but optionally include these if you want to sync settings/plugins/themes (uncomment if desired)
+#!.obsidian/app.json
+#!.obsidian/appearance.json
+#!.obsidian/community-plugins.json
+#!.obsidian/core-plugins.json
+#!.obsidian/hotkeys.json
+#!.obsidian/plugins/*/manifest.json
+#!.obsidian/plugins/*/data.json   # plugin settings – careful, some store keys!
+
+# Trash, temp, OS junk
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Plugin code & large binaries (prevents secrets like the Task Notes OAuth mess)
+.obsidian/plugins/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+node_modules/
