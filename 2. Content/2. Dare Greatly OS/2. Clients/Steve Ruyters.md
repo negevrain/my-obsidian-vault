@@ -1,5 +1,8 @@
 ---
-type: client
+categories:
+  - "[[People]]"
+type:
+  - client
 status: Active
 company:
   - - Company-XYZ
@@ -9,6 +12,7 @@ contact_phone:
 next_follow_up: 2025-01-15
 tags:
   - client/radio
+client_services: Supervision
 ---
 # Steve Ruyters
 
