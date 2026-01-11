@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/Just another test note.md",
+                "file": "1. Inbox/Steve Ruyters Supervision Session - Transcript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Just another test note"
+              "title": "Steve Ruyters Supervision Session - Transcript"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "97ea918b7dc228ec",
   "lastOpenFiles": [
+    "1. Inbox/Just another test note.md",
     "1. Inbox/grok-chat 2.md",
     "1. Inbox/grok-chat 1.md",
     "1. Inbox/grok-chat.md",
@@ -258,7 +259,6 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views",
     "TaskNotes",
-    "1. Inbox/Just another test note.md",
     "3. Archives/Dare Greatly OS 1.md",
     "2. Content/2. Personal Hub/_My Core Realm/My Life Goals.md",
     "2. Content/2. Personal Hub/_My Core Realm/My Prayer.md",
