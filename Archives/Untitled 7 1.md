@@ -1,3 +1,7 @@
+---
+feature: System/Thumbnails/external/7e926ab2aa9948f906cffb945c5874f6.svg
+thumbnail: System/Thumbnails/external/7e926ab2aa9948f906cffb945c5874f6.svg
+---
 # Client Dashboard
 
 ### 📅 Session Notes
@@ -46,4 +50,4 @@
 
 |![](https://www.notion.so/icons/font_gray.svg)Asset|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Type|![](https://www.notion.so/icons/list_gray.svg)Topics|![](https://www.notion.so/icons/attachment_gray.svg)Original Source|![](https://www.notion.so/icons/calendar-day_gray.svg)Date Added|![](https://www.notion.so/icons/subtitles_gray.svg)Description|![](https://www.notion.so/icons/star_gray.svg)Favorite|![](https://www.notion.so/icons/calendar_gray.svg)Last Used|![](https://www.notion.so/icons/link_gray.svg)Link (URL)|![](https://www.notion.so/icons/priority-high_gray.svg)Priority|![](https://www.notion.so/icons/description_gray.svg)Prompt|![](https://www.notion.so/icons/calendar_gray.svg)Publication Date|![](https://www.notion.so/icons/description_gray.svg)Quote|![](https://www.notion.so/icons/categories_gray.svg)Related Areas|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Clients|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Initiatives|![](https://www.notion.so/icons/arrow-northeast_gray.svg)Related Projects|![](https://www.notion.so/icons/description_gray.svg)Source|![](https://www.notion.so/icons/burst_gray.svg)Status|![](https://www.notion.so/icons/list_gray.svg)Tags|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|[[5. Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising||||[ ]||||||||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]||||Draft||
+|[[Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising||||[ ]||||||||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]||||Draft||

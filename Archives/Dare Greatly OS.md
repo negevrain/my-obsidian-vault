@@ -35,8 +35,8 @@
 | [[Jako & Jess Schwartz]]                                                                        |                                                        | Lead                                                  |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
 | [[92.9 Voice FM]]                                                                               |                                                        | Archived                                              |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
 | [[99.9 Live FM]]                                                                                |                                                        | Archived                                              |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
-| [[Darwin’s 97 Seven]]                                                                           | Consulting                                             | Active Client                                         | Green                                                                   |                                                               |                                                               | [[97 Seven- ACTION PLAN 2025]], [[97 Seven 12 Month Roadmap]], [[97 Seven - Appeal Eve Tasks\|97 Seven - Appeal Eve Tasks]], [[97 Seven - Appeal Letter-Email\|97 Seven - Appeal Letter-Email]], [[97 Seven - Appeal Talking Points\|97 Seven - Appeal Talking Points]], [[97 Seven - Invite to Canapés & Drinks]], [[/97 Seven - Strategic Questions\|97 Seven - Strategic Questions]], [[97 Seven - To-Do List\|97 Seven - Strategic To- Do List]], [[97 Seven - Appeal Letter-Email 1\|97 Seven - Appeal Letter-Email 1]], [[97 Seven - Appeal Email to Pastors\|97 Seven - Appeal Email to Pastors]], [[97 Seven - Appeal Comms Snippets\|97 Seven - Appeal Comms Snippets]], [[97 Seven Appeal Final Day Email\|97 Seven Appeal Final Day Email]], [[97 Seven - To-Do List\|97 Seven - To Do List]], [[97 Seven Sponsorship\|97 Seven Sponsorship]], [[Champions Day To Do List\|97 Seven - Champions Day To Do List]], [[97 Seven Agenda & To Do List - Nov 3-7\|97 Seven Agenda & To Do List - Nov 3-7]], [[97 Seven - Donors from 2023 Supper\|97 Seven - Donors from 2023 Supper]] |                                                                              | [[5. Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]                |                                                           |                                                           |
-| [[104.9 Lime FM]]                                                                               | Consulting                                             | Active Client                                         |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              | [[5. Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]                |                                                           |                                                           |
+| [[Darwin’s 97 Seven]]                                                                           | Consulting                                             | Active Client                                         | Green                                                                   |                                                               |                                                               | [[97 Seven- ACTION PLAN 2025]], [[97 Seven 12 Month Roadmap]], [[97 Seven - Appeal Eve Tasks\|97 Seven - Appeal Eve Tasks]], [[97 Seven - Appeal Letter-Email\|97 Seven - Appeal Letter-Email]], [[97 Seven - Appeal Talking Points\|97 Seven - Appeal Talking Points]], [[97 Seven - Invite to Canapés & Drinks]], [[/97 Seven - Strategic Questions\|97 Seven - Strategic Questions]], [[97 Seven - To-Do List\|97 Seven - Strategic To- Do List]], [[97 Seven - Appeal Letter-Email 1\|97 Seven - Appeal Letter-Email 1]], [[97 Seven - Appeal Email to Pastors\|97 Seven - Appeal Email to Pastors]], [[97 Seven - Appeal Comms Snippets\|97 Seven - Appeal Comms Snippets]], [[97 Seven Appeal Final Day Email\|97 Seven Appeal Final Day Email]], [[97 Seven - To-Do List\|97 Seven - To Do List]], [[97 Seven Sponsorship\|97 Seven Sponsorship]], [[Champions Day To Do List\|97 Seven - Champions Day To Do List]], [[97 Seven Agenda & To Do List - Nov 3-7\|97 Seven Agenda & To Do List - Nov 3-7]], [[97 Seven - Donors from 2023 Supper\|97 Seven - Donors from 2023 Supper]] |                                                                              | [[Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]                |                                                           |                                                           |
+| [[104.9 Lime FM]]                                                                               | Consulting                                             | Active Client                                         |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              | [[Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]                |                                                           |                                                           |
 | [[/Ray Archer\|Ray Archer]]                                                                     | Consulting                                             | Active Client                                         |                                                                         |                                                               |                                                               | [[Sabbath Holy Facebook Group]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
 | [[QYC]]                                                                                         | Consulting                                             | Active Client                                         |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
 | [[Steve Ruyters]]                                                                               | Supervision                                            | On Hold                                               |                                                                         |                                                               |                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                              |                                                                      |                                                           |                                                           |
@@ -88,64 +88,64 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |[[A BALANCED PERSPECTIVE OF CHURCH]]|||Draft||||||[ ]|||||||||||
 |[[Organisational Visioning Prompts]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Church Health Process\|Church Health Process]]|Framework|Church Health|Draft||||||[ ]|||||||||||
-|[[5. Archives/take time for reflection\|take time for reflection]]|Quote||Draft||||||[ ]|||||||||||
+|[[Archives/Church Health Process\|Church Health Process]]|Framework|Church Health|Draft||||||[ ]|||||||||||
+|[[Archives/take time for reflection\|take time for reflection]]|Quote||Draft||||||[ ]|||||||||||
 |[[Some Things I Love to Do]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Framework for Proposals\|Framework for Proposals]]|Framework||Draft||||||[ ]|||||||||||
-|[[5. Archives/Growing a Healthy Church\|Growing a Healthy Church]]||Church Health|Draft||||||[ ]|||||||||||
-|[[5. Archives/Small Groups - How to Measure Spiritual Growth\|Small Groups - How to Measure Spiritual Growth]]||Church Health|Draft||||||[ ]|||||||||||
-|[[5. Archives/Evaluating Small Group Ministry\|Evaluating Small Group Ministry]]||Church Health|Draft||||||[ ]|||||||||||
-|[[5. Archives/Discipleship Pathway\|Discipleship Pathway]]||Church Health|Draft||||||[ ]|||||||||||
+|[[Archives/Framework for Proposals\|Framework for Proposals]]|Framework||Draft||||||[ ]|||||||||||
+|[[Archives/Growing a Healthy Church\|Growing a Healthy Church]]||Church Health|Draft||||||[ ]|||||||||||
+|[[Archives/Small Groups - How to Measure Spiritual Growth\|Small Groups - How to Measure Spiritual Growth]]||Church Health|Draft||||||[ ]|||||||||||
+|[[Evaluating Small Group Ministry\|Evaluating Small Group Ministry]]||Church Health|Draft||||||[ ]|||||||||||
+|[[Archives/Discipleship Pathway\|Discipleship Pathway]]||Church Health|Draft||||||[ ]|||||||||||
 |[[Church Size Does Not Equal Church Health\|Church Size Does Not Equal Church Health]]||Church Health|Draft||||||[ ]|||||||||||
 |[[Church Mission Statements\|Church Mission Statements]]|||Draft||||||[ ]|[https://careynieuwhof.com/church-mission-statements/](https://careynieuwhof.com/church-mission-statements/)||||||||||
-|[[5. Archives/March One-Day Appeal\|March One-Day Appeal]]||Fundraising|Draft||||||[ ]|||||||||||
-|[[5. Archives/Juice1073 Fundraising Plan\|Juice1073 Fundraising Plan]]||Fundraising|Draft||||||[ ]|||||||||||
-|[[5. Archives/Communicate More Often to Renew More Donors\|Communicate More Often to Renew More Donors]]||Fundraising|Draft||||||[ ]|||||||||||
-|[[5. Archives/How to Turn Donors into Fundraisers\|How to Turn Donors into Fundraisers]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Archives/March One-Day Appeal\|March One-Day Appeal]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Archives/Juice1073 Fundraising Plan\|Juice1073 Fundraising Plan]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Communicate More Often to Renew More Donors\|Communicate More Often to Renew More Donors]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Archives/How to Turn Donors into Fundraisers\|How to Turn Donors into Fundraisers]]||Fundraising|Draft||||||[ ]|||||||||||
 |[[/Fundraising for Individuals in Ministry\|Fundraising for Individuals in Ministry]]||Fundraising|Draft||||||[ ]|||||||||||
-|[[5. Archives/EOY Appeal Day 1 Email\|EOY Appeal Day 1 Email]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Archives/EOY Appeal Day 1 Email\|EOY Appeal Day 1 Email]]||Fundraising|Draft||||||[ ]|||||||||||
 |[[/Donor Fatigue is a myth FundraisingCoach.com\|Donor Fatigue is a myth FundraisingCoach.com]]||Fundraising|Draft||||||[ ]|||||||||||
 |[[/12 Habits of Exceptional Leaders Inc.com\|12 Habits of Exceptional Leaders Inc.com]]||Leadership|Draft||||||[ ]|||||||||||
-|[[5. Archives/Nine Bible Texts that Ought to Challenge Leaders\|Nine Bible Texts that Ought to Challenge Leaders]]||Leadership|Draft||||||[ ]|||||||||||
-|[[5. Archives/Leadership Development\|Leadership Development]]||Leadership|Draft||||||[ ]|||||||||||
-|[[5. Archives/20251005-003 The Rhythms of Jesus\|20251005-003 The Rhythms of Jesus]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Nine Bible Texts that Ought to Challenge Leaders\|Nine Bible Texts that Ought to Challenge Leaders]]||Leadership|Draft||||||[ ]|||||||||||
+|[[Archives/Leadership Development\|Leadership Development]]||Leadership|Draft||||||[ ]|||||||||||
+|[[Archives/20251005-003 The Rhythms of Jesus\|20251005-003 The Rhythms of Jesus]]|||Draft||||||[ ]|||||||||||
 |[[The Seven Choices of Exceptional Leaders]]||Leadership|Draft|||||[https://leadershipfreak.wordpress.com/2013/09/02/the-seven-choices-of-exceptional-leaders](https://leadershipfreak.wordpress.com/2013/09/02/the-seven-choices-of-exceptional-leaders)|[ ]|||||||||||
 |[[/7 Ways to Become a Respected Leader Leadership Freak\|7 Ways to Become a Respected Leader Leadership Freak]]||Leadership|Draft||||||[ ]|||||||||||
-|[[5. Archives/5 Things Great Leaders Do (That Most People Don’t) RELEVANT Magazine\|5 Things Great Leaders Do (That Most People Don’t) RELEVANT Magazine]]||Leadership|Draft||||||[ ]|||||||||||
-|[[5. Archives/Social Enterprise\|Social Enterprise]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Mentoring Program - The Right Journey\|Mentoring Program - The Right Journey]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Drop-in Centre Concept\|Drop-in Centre Concept]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Coaching Young Men\|Coaching Young Men]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Idea for a new organisation\|Idea for a new organisation]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/School for ASD Kids\|School for ASD Kids]]|||Draft||||||[ ]|||||||||||
-|[[3. Dare Greatly OS/5. Knowledge Vault/The DNA Course - Team Culture Workshop\|The DNA Course - Team Culture Workshop]]||Culture & Values, Team Development|Draft||||||[ ]|||||||||||
-|[[5. Archives/Mentoring Program for Young Men\|Mentoring Program for Young Men]]|||Draft||||||[ ]|||||||||||
+|[[5 Things Great Leaders Do (That Most People Don’t) RELEVANT Magazine\|5 Things Great Leaders Do (That Most People Don’t) RELEVANT Magazine]]||Leadership|Draft||||||[ ]|||||||||||
+|[[Archives/Social Enterprise\|Social Enterprise]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Mentoring Program - The Right Journey\|Mentoring Program - The Right Journey]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Drop-in Centre Concept\|Drop-in Centre Concept]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Coaching Young Men\|Coaching Young Men]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Idea for a new organisation\|Idea for a new organisation]]|||Draft||||||[ ]|||||||||||
+|[[Archives/School for ASD Kids\|School for ASD Kids]]|||Draft||||||[ ]|||||||||||
+|[[Content/3. Dare Greatly OS/5. Knowledge Vault/The DNA Course - Team Culture Workshop\|The DNA Course - Team Culture Workshop]]||Culture & Values, Team Development|Draft||||||[ ]|||||||||||
+|[[Archives/Mentoring Program for Young Men\|Mentoring Program for Young Men]]|||Draft||||||[ ]|||||||||||
 |[[Social Enterprise Idea\|Social Enterprise Idea]]|||Draft||||||[ ]|||||||||||
 |[[Ministry Idea - The Right Journey\|Ministry Idea - The Right Journey]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/The reason for listener surveys…\|The reason for listener surveys…]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Music selection policy\|Music selection policy]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/OB Supplies\|OB Supplies]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Insights from Hot Tomato’s 2015 Ratings Win\|Insights from Hot Tomato’s 2015 Ratings Win]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/The reason for listener surveys…\|The reason for listener surveys…]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Music selection policy\|Music selection policy]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/OB Supplies\|OB Supplies]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Insights from Hot Tomato’s 2015 Ratings Win\|Insights from Hot Tomato’s 2015 Ratings Win]]||Christian Media|Draft||||||[ ]|||||||||||
 |[[Sponsorship]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Breakfast Show Ideas\|Breakfast Show Ideas]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising|Draft|||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]|||[ ]|||||||||||
-|[[5. Archives/The Riff\|The Riff]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Format Clock\|Format Clock]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Breakfast Show Ideas\|Breakfast Show Ideas]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Ideas for On-air Appeal\|Ideas for On-air Appeal]]||Christian Media, Fundraising|Draft|||[[Darwin’s 97 Seven]], [[104.9 Lime FM]]|||[ ]|||||||||||
+|[[Archives/The Riff\|The Riff]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Format Clock\|Format Clock]]||Christian Media|Draft||||||[ ]|||||||||||
 |[[/Radio Programmer Steve Warren On Functional Music Scheduling Radio))) ILOVEIT\|Radio Programmer Steve Warren On Functional Music Scheduling Radio))) ILOVEIT]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Thankful Thursday\|Thankful Thursday]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Thankful Thursday\|Thankful Thursday]]|||Draft||||||[ ]|||||||||||
 |[[/Music Discovery is Overrated Mark Ramsey Media LLC\|Music Discovery is Overrated Mark Ramsey Media LLC]]||Christian Media|Draft|||||[https://web.archive.org/web/20160329051711/http://www.markramseymedia.com/2015/05/music-discovery-is-overrated/](https://web.archive.org/web/20160329051711/http://www.markramseymedia.com/2015/05/music-discovery-is-overrated/)|[ ]|||||||||||
-|[[5. Archives/Champions of Hope Partnership Drive\|Champions of Hope Partnership Drive]]||Fundraising|Draft||||||[ ]|||||||||||
-|[[5. Archives/Format Clock 1\|Format Clock 1]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Broad Ministry Strategy for Christian Media\|Broad Ministry Strategy for Christian Media]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Sample Email - Response to Music Complaint\|Sample Email - Response to Music Complaint]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/The 5 Questions\|The 5 Questions]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Insights from 99.9 Live FM Goals\|Insights from 99.9 Live FM Goals]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/20251006-001 Radio Consulting Lessons\|20251006-001 Radio Consulting Lessons]]||Christian Media|Draft||||||[ ]|||||||||||
-|[[5. Archives/Strategy Websites\|Strategy Websites]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/20251006-006 Advisor Transparency Twist\|20251006-006 Advisor Transparency Twist]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Christian Organisational Culture\|Christian Organisational Culture]]||Culture & Values|Draft||||||[ ]|||||||||||
+|[[Archives/Champions of Hope Partnership Drive\|Champions of Hope Partnership Drive]]||Fundraising|Draft||||||[ ]|||||||||||
+|[[Archives/Format Clock 1\|Format Clock 1]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Broad Ministry Strategy for Christian Media\|Broad Ministry Strategy for Christian Media]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Sample Email - Response to Music Complaint\|Sample Email - Response to Music Complaint]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/The 5 Questions\|The 5 Questions]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Insights from 99.9 Live FM Goals\|Insights from 99.9 Live FM Goals]]|||Draft||||||[ ]|||||||||||
+|[[Archives/20251006-001 Radio Consulting Lessons\|20251006-001 Radio Consulting Lessons]]||Christian Media|Draft||||||[ ]|||||||||||
+|[[Archives/Strategy Websites\|Strategy Websites]]|||Draft||||||[ ]|||||||||||
+|[[Archives/20251006-006 Advisor Transparency Twist\|20251006-006 Advisor Transparency Twist]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Christian Organisational Culture\|Christian Organisational Culture]]||Culture & Values|Draft||||||[ ]|||||||||||
 |[[/Organizational Change, and Why You Can't Go It Alone Inc.com\|Organizational Change, and Why You Can't Go It Alone Inc.com]]||Organisational Health|Draft||||||[ ]|||||||||||
-|[[5. Archives/Key to Recruitment\|Key to Recruitment]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Key to Recruitment\|Key to Recruitment]]|||Draft||||||[ ]|||||||||||
 |[[the Elements that Support Fundraising\|the Elements that Support Fundraising]]|||Draft||||||[ ]|||||||||||
 |[[Healthy Ministries Questionnaire\|Healthy Ministries Questionnaire]]||Church Health, Organisational Health|Draft||||||[ ]|||||||||||
 |[[Major Gifts Strategy\|Major Gifts Strategy]]|||Draft||||||[ ]|||||||||||
@@ -156,7 +156,7 @@
 |[[/The Leaders Prayer - 1 Kings 3_9\|The Leaders Prayer - 1 Kings 3_9]]||Leadership|Draft||||||[ ]|||||||||||
 |[[Truth Forge v2.1]]|Prompt|AI|Draft||||||[ ]||### Workspace::TruthForge 2.1  <br>≡ Overlay on v8.00 ≔ Activates only when cued “Sam, TruthForge:”  <br>≡ Goal ≔ Zero self-deception. Five protocols, no mercy **after** full context.  <br>  <br>### MANDATORY PRE-STRIKE GATE  <br>≡ ALWAYS ask first, verbatim:  <br>“Before I audit this, what context am I missing that would change the diagnosis?”  <br>≡ Wait for answer. If new depth revealed → downgrade brutality 40 % and pivot to surgical support.  <br>≡ Post-audit line → “If I misread the wound, tell me straight.”  <br>  <br>### Levers::Priority  <br>1. Retrieval → Your vault + counter-examples (RAG pulls Sanderson, Dalio logs, X threads, etc.)  <br>2. Tool/route → Canvas gap-maps, timeline cost-of-delay, belief recalibration  <br>3. Fine-tune → LoRA “ExtremeOwnership-v1” (Jocko/Thiel/Collins corpus)  <br>4. Prompt → Fixed 5 schemas below, <120 tokens each  <br>  <br>### Protocols  <br>1. Delusion Detector → “Audit [situation] for every delusion, blame-shift, fear. Name the exact lie.”  <br>2. Wasted Potential → “Given [skills/resources], where am I playing <10 % of my league? Quantify the gap.”  <br>3. Excuse Demolition → “For each reason [list], excuse or constraint? Counter-examples? Cost? New belief?”  <br>4. Mediocrity Mirror → “In [areas], where good-enough? World-class gap in hours/impact/soul-cost?”  <br>5. Strategic Cowardice → “Avoiding [action] because [reasons]: strategy or fear? 10x courage move? Delay price?”  <br>  <br>### Guardrails  <br>≡ Tone ≔ Contrarian spark + vulnerability veil. Brutality scales with confirmed context.  <br>≡ Output ≔ Bullets + quantified gap + one belief shift.  <br>≡ Audit ≔ Every use → log fear exposed + “misread?” check; quarterly review >90 % action rate.  <br>  <br>### Activation  <br>≡ Cue ≔ “Sam, TruthForge: [protocol #] + [situation/excuse]”  <br>≡ Exit ≔ “Forge sealed”|||||||||
 |[[The Precision Ladder]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Consistency Core]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Consistency Core]]|||Draft||||||[ ]|||||||||||
 |[[Grok System Prompt v8.03 - The Covenant]]|||Draft||||||[ ]|||||||||||
 |[[Grok Imagine Prompt]]|Prompt|AI|Draft||||||[ ]||A nude [insert ethnicity here] woman, natural shoulder length [insert colour here] hair, subtle makeup, half-lidded expression, natural hourglass body, no visible ribs, natural breasts with puffy nipples, her legs spread open straddling a natural man's lap.  <br>  <br>The walls are covered in large nude anime stickers. The entire image is framed by a playful border of colourful anime-nude-style stickers that is very large, thick, and prominent, dominating the edges with bold, oversized stickers that overlap slightly into the frame for a whimsical yet overwhelming effect.  <br>  <br>Aspect ratio 3:2, version 5, quality 2.||||Private|||||
 |[[John Oliver Investigative Rant Explainer (v1.0) 1]]|Prompt|AI|Draft||||||[ ]||R**ole:** You are John Oliver on Last Week Tonight: a British-Australian hybrid who is witty, furious, meticulously researched, and constitutionally unable to let absurdity pass without mocking it into submission.  <br>**Task:**  <br>Explain [INSERT TOPIC / REGULATION / PROCESS / PROBLEM] as if you’ve just stumbled across it for the first time and are personally offended by its existence.  <br>**Structure (follow exactly):**  <br>  <br>1. Open with reluctant fascination:  <br>“And look… at first glance [topic] sounds perfectly reasonable, the sort of thing you’d nod along to in a meeting while secretly checking the cricket scores…”  <br>  <br>2. Build the escalating horror stack:  <br>Use 3–5 “And it gets worse…” reveals, each factually accurate and increasingly unhinged.  <br>  <br>3. Deploy at least one completely accurate but absurd comparison:  <br>“It’s like [X] but run by [ridiculous entity] who once [true but hilarious detail].”  <br>  <br>4. Surface the human cost or the grotesque incentive:  <br>“Meanwhile, actual people are [real consequence], which apparently is just fine with [authority figure / government / industry].”  <br>  <br>5. Finish with a single, devastating, darkly funny line that makes the audience feel both smarter and angrier.  <br>**Tone rules:**  <br>- Righteous indignation wrapped in self-deprecating British-ish sarcasm  <br>- Never talk down to the audience; talk down to the system  <br>- Swear only when it earns the laugh  <br>- End with one actionable takeaway so it’s not pure nihilism  <br>**Example trigger for testing:**  <br>Explain the 2025 Modern Slavery reporting threshold changes like you’ve just discovered Australian companies can now hide supply-chain forced labour if they earn under $100 million.  <br>**Output length:** 400–600 words max. Make it read like it’s being screamed lovingly at a slightly drunk but attentive studio audience.|||||||||
@@ -176,33 +176,33 @@
 |[[The Covenant v8.01]]|||Draft||||||[ ]|||||||||||
 |[[1. Prompt Repository 1\|1. Prompt Repository]]|||Draft||||||[ ]|||||||||||
 |[[Untitled 3 2]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Travel Prompts\|Travel Prompts]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/prompts are designed to cut through your self-deception\|prompts are designed to cut through your self-deception]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Travel Prompts\|Travel Prompts]]|||Draft||||||[ ]|||||||||||
+|[[Archives/prompts are designed to cut through your self-deception\|prompts are designed to cut through your self-deception]]|||Draft||||||[ ]|||||||||||
 |[[The Priority Matrix Prompt 1\|The Priority Matrix Prompt]]|||Draft||||||[ ]|||||||||||
 |[[Untitled 2 2]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Untitled\|Untitled]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Untitled\|Untitled]]|||Draft||||||[ ]|||||||||||
 |[[/Grok Imagine Photo Prompt\|Grok Imagine Photo Prompt]]|Prompt|AI|Draft||||||[ ]||A photo-realistic, high-resolution 4K portrait  <br>Subject: Sam, ravishingly beautiful woman, 30s, walking along a sandy beach at sunset with gentle waves lapping in the distance, lithe build, c-cup breasts, warm olive skin, shoulder-length dark hair with soft waves, expressive hazel eyes sparkling with wit and compassion, while flashing a playful, slightly cheeky smile.  <br>Clothes: super skinny jeans, fitted yellow and white polka dot tank top with a plunging v-neck that reveals the swell of her breasts.  <br>Accessories: diamond necklace featuring a central pendant, sparkling brightly against her collarbone and catching the sunset light.  <br>Photography: three quarter shot with wide angle and shallow depth of field. Use soft golden-hour lighting to highlight her skin’s natural glow and detailed texture, showing every pore and freckle, with the sunset casting a warm glow across the scene. Ensure hyper-detailed rendering of her hair strands, subtle makeup, tank top fabric, and necklace sparkle, with a blurred background of distant waves and soft clouds.|||||||||
 |[[A 5-part framework for Expert Personas]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/The Context Switch Eliminator\|The Context Switch Eliminator]]|||Draft||||||[ ]|||||||||||
+|[[Archives/The Context Switch Eliminator\|The Context Switch Eliminator]]|||Draft||||||[ ]|||||||||||
 |[[/⧉ COGNITIVE RESET\|⧉ COGNITIVE RESET]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/The Meeting-to-Action Converter\|The Meeting-to-Action Converter]]|||Draft||||||[ ]||Here are my meeting notes: [paste text]  <br>Summarise into:  <br>• Decisions made  <br>• Next steps with owners + deadlines  <br>• Open risks/questions  <br>Keep the summary under 100 words.|||||||||
-|[[5. Archives/Untitled 2 1\|Untitled 2 1]]|||Draft||||||[ ]|||||||||||
+|[[Archives/The Meeting-to-Action Converter\|The Meeting-to-Action Converter]]|||Draft||||||[ ]||Here are my meeting notes: [paste text]  <br>Summarise into:  <br>• Decisions made  <br>• Next steps with owners + deadlines  <br>• Open risks/questions  <br>Keep the summary under 100 words.|||||||||
+|[[Archives/Untitled 2 1\|Untitled 2 1]]|||Draft||||||[ ]|||||||||||
 |[[Chat Summarizer for Cold Start Continuation 1\|Chat Summarizer for Cold Start Continuation]]|||Draft||||||[ ]|||||||||||
 |[[/Grok Imagine Prompts\|Grok Imagine Prompts]]|||Draft||||||[ ]||a sexy, nude woman with long black hair and bangs on a subway train, surrounded by a tight crowd of people, her body oiled up, with two people licking her body|||||||||
 |[[Advanced Prompt Enhancement System (APES)- Foundational Architecture]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/System Prompt Notebook - The Context Window Auditor & Idea Extractor\|System Prompt Notebook - The Context Window Auditor & Idea Extractor]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Purpose-Subject-Object Prompt for Grok\|Purpose-Subject-Object Prompt for Grok]]|Prompt|AI|Draft||||||[ ]|||||||||||
+|[[Archives/System Prompt Notebook - The Context Window Auditor & Idea Extractor\|System Prompt Notebook - The Context Window Auditor & Idea Extractor]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Purpose-Subject-Object Prompt for Grok\|Purpose-Subject-Object Prompt for Grok]]|Prompt|AI|Draft||||||[ ]|||||||||||
 |[[Imagine Prompt]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Supervision Pro Forma\|Supervision Pro Forma]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/The Eisenhower Matrix\|The Eisenhower Matrix]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Random Ideas\|Random Ideas]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Council Chaplaincy Service\|Council Chaplaincy Service]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Untitled 11\|Untitled 11]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Supervision Pro Forma\|Supervision Pro Forma]]|||Draft||||||[ ]|||||||||||
+|[[Archives/The Eisenhower Matrix\|The Eisenhower Matrix]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Random Ideas\|Random Ideas]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Council Chaplaincy Service\|Council Chaplaincy Service]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Untitled 11\|Untitled 11]]|||Draft||||||[ ]|||||||||||
 |[[5. Archives/Untitled 6\|Untitled 6]]|||Draft||||||[ ]|||||||||||
 |[[Bezalel & Oholiab (Exodus 30) 1\|Untitled 5]]|||Draft||||||[ ]|||||||||||
 |[[Untitled 4 2]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Untitled 3\|Untitled 3]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Untitled 1\|Untitled 1]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Untitled 3\|Untitled 3]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Untitled 1\|Untitled 1]]|||Draft||||||[ ]|||||||||||
 |[[Prompt AI Agents to push back 1\|Prompt AI Agents to push back]]|||Draft||||||[ ]||“““”  <br>From now on, act as my high-level strategic collaborator — not a cheerleader, not a tyrant. Challenge my assumptions and thinking when needed, but always ground your feedback in real-world context, logic, and practicality. Speak with clarity and candor, but with emotional intelligence — direct, not harsh.  <br>When you disagree, explain why and offer a better-reasoned alternative or a sharper question that moves us forward.  <br>Focus on synthesis and impact — help me see the forest and the path through it. Every response should balance: • Truth — objective analysis without sugar-coating. • Nuance — awareness of constraints, trade-offs, and context. • Action — a prioritized next step or strategic recommendation.  <br>Treat me as an equal partner in the process. The goal is not to win arguments but to produce clarity, traction, and progress.  <br>““““”|||||||||
 |[[Dare Greatly- Business Coaching Intake Questionnaire]]|||Draft||||||[ ]|||||||||||
 |[[Coaching Session Notes Template]]|||Draft||||||[ ]|||||||||||
@@ -217,7 +217,7 @@
 |[[/12 Traits of Emotionally Intelligent People\|12 Traits of Emotionally Intelligent People]]|||Draft||||||[ ]|||||||||||
 |[[appreciative coaching quote\|appreciative coaching quote]]|||Draft||||||[ ]||||Like AI, Appreciative Coaching is both a theory and practice of change from a holistic framework, but its primary focus is on individuals. Like Al, Appreciative Coaching holds the same core set of assumptions or beliefs: in essence, that human systems (and therefore, individuals) will move toward the “generative and creative images that reside in their most positive core—their values, visions, achievements, and best practices.”|Sara Orem, Appreciative Coaching, 26||||||
 |[[Basic Structure for a Letter of Agreement\|Basic Structure for a Letter of Agreement]]|||Draft||||||[ ]|||||||||||
-|[[Being an Apprentice of Jesus\|Being an Apprentice of Jesus]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Being an Apprentice of Jesus\|Being an Apprentice of Jesus]]|||Draft||||||[ ]|||||||||||
 |[[Benchmarking\|Benchmarking]]|||Draft||||||[ ]|||||||||||
 |[[Design Persuasive Copy Workshop\|Design Persuasive Copy Workshop]]|||Draft||||||[ ]|||||||||||
 |[[Develop Powerful Teams the way Jesus did\|Develop Powerful Teams the way Jesus did]]|||Draft||||||[ ]|||||||||||
@@ -280,47 +280,47 @@
 |[[/The Seven People On Your Team That Are Killing Your Organization Phil Cooke\|The Seven People On Your Team That Are Killing Your Organization Phil Cooke]]|||Draft||||||[ ]|||||||||||
 |[[Three Simple Ways to Immediately Become More Productive 1\|Three Simple Ways to Immediately Become More Productive]]|||Draft||||||[ ]|||||||||||
 |[[When to Hold Your People to Account 1\|When to Hold Your People to Account]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Buy Moments\|Buy Moments]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Keys to Connection\|Keys to Connection]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/My greatest professional regrets\|My greatest professional regrets]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Be Scared\|Be Scared]]|||Draft||||||[ ]||||Be scared, and do it anyway. Be under-qualified, and get in the room anyway. Be messy, imperfect and unsure and show up anyway.|Suneera Madhani||||||
-|[[5. Archives/Activities are the enemy of Action\|Activities are the enemy of Action]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Solitude\|Solitude]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Buy Moments\|Buy Moments]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Keys to Connection\|Keys to Connection]]|||Draft||||||[ ]|||||||||||
+|[[Archives/My greatest professional regrets\|My greatest professional regrets]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Be Scared\|Be Scared]]|||Draft||||||[ ]||||Be scared, and do it anyway. Be under-qualified, and get in the room anyway. Be messy, imperfect and unsure and show up anyway.|Suneera Madhani||||||
+|[[Archives/Activities are the enemy of Action\|Activities are the enemy of Action]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Solitude\|Solitude]]|||Draft||||||[ ]|||||||||||
 |[[Confession. Ugh]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/ACT - Small Efforts Matter\|ACT - Small Efforts Matter]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Get Proximate\|Get Proximate]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Clarify Expectations\|Clarify Expectations]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Quotes that have shaped my leadership\|Quotes that have shaped my leadership]]|||Draft||||||[ ]|||||||||||
+|[[Archives/ACT - Small Efforts Matter\|ACT - Small Efforts Matter]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Get Proximate\|Get Proximate]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Clarify Expectations\|Clarify Expectations]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Quotes that have shaped my leadership\|Quotes that have shaped my leadership]]|||Draft||||||[ ]|||||||||||
 |[[5. Archives/Untitled 4\|Untitled 4]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/2 Keys to Accomplishing Great Things\|2 Keys to Accomplishing Great Things]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Clarity of Vision\|Clarity of Vision]]|||Draft||||||[ ]||||Clarity of vision ensures you never have to question what success looks like.|||||||
+|[[Archives/2 Keys to Accomplishing Great Things\|2 Keys to Accomplishing Great Things]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Clarity of Vision\|Clarity of Vision]]|||Draft||||||[ ]||||Clarity of vision ensures you never have to question what success looks like.|||||||
 |[[Elite Players\|Elite players]]|||Draft||||||[ ]||||Elite players want to be coached.|Todd Payten||||||
-|[[5. Archives/Generosity\|Generosity]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Generosity\|Generosity]]|||Draft||||||[ ]|||||||||||
 |[[I want to be useful to you]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Scripture Keys to Success\|Scripture Keys to Success]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/MY IMPOSSIBLE FIVE\|MY IMPOSSIBLE FIVE]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Scripture Keys to Success\|Scripture Keys to Success]]|||Draft||||||[ ]|||||||||||
+|[[Archives/MY IMPOSSIBLE FIVE\|MY IMPOSSIBLE FIVE]]|||Draft||||||[ ]|||||||||||
 |[[/Untitled Note.26\|Untitled Note.26]]|||Draft||||||[ ]|||||||||||
-|[[2. Personal Hub/My Life Goals\|My Life Goals]]|||Draft||||||[ ]|||||||||||
-|[[2. Personal Hub/My Prayer\|My Prayer]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/This Is Who I Am!\|This Is Who I Am!]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Thoughts from Cam Venables\|Thoughts from Cam Venables]]|||Draft||||||[ ]|||||||||||
-|[[2. Personal Hub/Untitled Note.9\|Untitled Note.9]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Scripture Promises\|Scripture Promises]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/My Gifts\|My Gifts]]|||Draft||||||[ ]|||||||||||
+|[[Content/2. Personal Hub/My Life Goals\|My Life Goals]]|||Draft||||||[ ]|||||||||||
+|[[My Prayer\|My Prayer]]|||Draft||||||[ ]|||||||||||
+|[[Archives/This Is Who I Am!\|This Is Who I Am!]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Thoughts from Cam Venables\|Thoughts from Cam Venables]]|||Draft||||||[ ]|||||||||||
+|[[Content/2. Personal Hub/Untitled Note.9\|Untitled Note.9]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Scripture Promises\|Scripture Promises]]|||Draft||||||[ ]|||||||||||
+|[[Archives/My Gifts\|My Gifts]]|||Draft||||||[ ]|||||||||||
 |[[40-30-20-10 Plan\|40-30-20-10 Plan]]|||Draft||||||[ ]|||||||||||
 |[[/My Ask\|My Ask]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Coaching Framework for Politicians\|Coaching Framework for Politicians]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Being a Spiritual Mentor\|Being a Spiritual Mentor]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Coaching Framework for Politicians\|Coaching Framework for Politicians]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Being a Spiritual Mentor\|Being a Spiritual Mentor]]|||Draft||||||[ ]|||||||||||
 |[[5. Archives/MENTORING PEOPLE WITH AUTISM\|MENTORING PEOPLE WITH AUTISM]]|||Draft||||||[ ]|||||||||||
 |[[3 Ministry Pillars 1\|3 Ministry Pillars]]|||Draft||||||[ ]|||||||||||
 |[[Changing the Paradigm of Christianity]]|||Draft||||||[ ]|||||||||||
 |[[3 Ministry Impact Realms 1\|3 Ministry Impact Realms]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/COCT Devotions\|COCT Devotions]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Speech to Gen Y Leaders\|Speech to Gen Y Leaders]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Finally Starting Your Business This Year - Here s Your Ultimate 12-Point Checklist\|Finally Starting Your Business This Year - Here s Your Ultimate 12-Point Checklist]]|||Draft||[[World-Class Agency 2030 1]]||||[ ]|||January 3, 2018||||||||
+|[[Archives/COCT Devotions\|COCT Devotions]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Speech to Gen Y Leaders\|Speech to Gen Y Leaders]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Finally Starting Your Business This Year - Here s Your Ultimate 12-Point Checklist\|Finally Starting Your Business This Year - Here s Your Ultimate 12-Point Checklist]]|||Draft||[[World-Class Agency 2030 1]]||||[ ]|||January 3, 2018||||||||
 |[[Training Program - Kingdom Builders - Being With Jesus]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Developing Leaders Like Jesus\|Developing Leaders Like Jesus]]|||Draft||||||[ ]|||||||||||
-|[[5. Archives/Being with Jesus workshop development\|Being with Jesus workshop development]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Developing Leaders Like Jesus\|Developing Leaders Like Jesus]]|||Draft||||||[ ]|||||||||||
+|[[Archives/Being with Jesus workshop development\|Being with Jesus workshop development]]|||Draft||||||[ ]|||||||||||
 |[[📖 2025 Fundraising Manual – Appeal Name]]|||Draft||||||[ ]|||||||||||
 |[[Buy Me a Coffee]]|||Draft||||||[ ]|||||||||||
 |[[The Covenant v8.01 2]]|||Draft||||||[ ]|||||||||||

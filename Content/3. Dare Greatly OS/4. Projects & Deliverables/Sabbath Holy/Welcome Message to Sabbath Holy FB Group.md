@@ -1,5 +1,5 @@
 ---
-Client: "[[3. Dare Greatly OS/2. Clients/Ray Archer|Ray Archer]]"
+Client: "[[Ray Archer|Ray Archer]]"
 ---
 
 Let’s welcome our new members to Sabbath Holy! We’re thrilled to have you join our community of Sabbath Keepers. What brought you here? Please post a quick intro. We’d love to know more about you and how you keep the Sabbath holy.

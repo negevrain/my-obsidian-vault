@@ -77,7 +77,7 @@ SORT file.mtime DESC
 
 [[David Miles - Primary Tasks|David Miles - Primary Tasks]]
 
-[[5. Archives/Session Notes_ David Miles|Session Notes_ David Miles]]
+[[Session Notes_ David Miles|Session Notes_ David Miles]]
 
 [[Miles Research Team Meeting|Miles Research Team Meeting]]
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Categories/Evergreen.md",
+                "file": "20260105 To-Do List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evergreen"
+              "title": "20260105 To-Do List"
             }
           }
         ]
@@ -212,10 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7943e0345f42993",
+  "active": "cd2b8410dfa7d929",
   "lastOpenFiles": [
-    "Resources",
     "Resources/Categories/Clippings.md",
+    "Resources/Categories/Evergreen.md",
+    "System/Thumbnails/external/688ae43a077b4bb611d903649fa379a3.svg",
+    "System/Thumbnails/external/7e926ab2aa9948f906cffb945c5874f6.svg",
+    "System/Thumbnails/external",
+    "Content",
+    "Resources",
     "Resources/Categories/People.md",
     "System/FileClasses/Writing.md",
     "20260105 To-Do List.md",
@@ -254,16 +259,11 @@
     "Templates/Bases/Writing.base",
     "Templates/Bases/Recipes.base",
     "Templates/Bases/People.base",
-    "Templates/Bases/Clippings.base",
-    "Templates/Bases/Leadership.base",
-    "System/FileClasses",
     "System/Attachments/stefano-intintoli-zrOmqS3y8W4-unsplash.jpg",
-    "pixel-banner-images/stefano-intintoli-zrOmqS3y8W4-unsplash.jpg",
-    "5. Archives/Untitled.canvas",
+    "Archives/Untitled.canvas",
     "2. Personal Hub/2. Personal Hub.canvas",
     "2. Personal Hub/Untitled.canvas",
     "Homepage.canvas",
-    "5. Archives/image 1.gif",
     "Untitled 1.canvas"
   ]
 }
