@@ -1,6 +1,24 @@
 {
   "presetFields": [
     {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "company",
+          "2": "individual",
+          "3": ""
+        }
+      },
+      "name": "client_type",
+      "id": "5OqBmz",
+      "path": ""
+    },
+    {
       "type": "Multi",
       "tagName": "multi",
       "icon": "bullet-list",
@@ -41,30 +59,12 @@
       "name": "client_status",
       "id": "dHwAKW",
       "path": ""
-    },
-    {
-      "type": "Select",
-      "tagName": "select",
-      "icon": "right-triangle",
-      "tooltip": "Accepts a single value from a list",
-      "colorClass": "select",
-      "options": {
-        "sourceType": "ValuesList",
-        "valuesList": {
-          "1": "company",
-          "2": "individual",
-          "3": ""
-        }
-      },
-      "name": "client_type",
-      "id": "5OqBmz",
-      "path": ""
     }
   ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": null,
+  "classFilesPath": "System/FileClasses/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
   "settingsVersion": "5.8",

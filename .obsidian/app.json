@@ -8,7 +8,7 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "System/Attachments",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
