@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a899631c85736a4",
+            "id": "6e499f2c32613913",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,27 +22,13 @@
             }
           },
           {
-            "id": "d93ccf6584535063",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Clippings/5 Weekend Habits of Highly Successful People.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 Weekend Habits of Highly Successful People"
-            }
-          },
-          {
-            "id": "6e499f2c32613913",
+            "id": "97ea918b7dc228ec",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "home-tab-view"
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ],
@@ -209,9 +195,19 @@
               "icon": "lucide-ghost",
               "title": "reminder-list"
             }
+          },
+          {
+            "id": "828a18cefc6b63e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -220,6 +216,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "notebook-navigator:Notebook Navigator": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -233,26 +231,17 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": false,
-      "tasknotes:Open task list": false,
-      "tasknotes:Open agenda": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
-      "notebook-navigator:Notebook Navigator": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7943e0345f42993",
+  "active": "97ea918b7dc228ec",
   "lastOpenFiles": [
+    "1. Inbox/Home.md",
+    "Resources/Clippings/5 Weekend Habits of Highly Successful People.md",
     "1. Inbox/20260105 To-Do List 1.md",
     "3. Archives/2 Keys to Accomplishing Great Things 1.md",
-    "1. Inbox/Home.md",
     "System/Thumbnails/resized/3ee512b4411c44140ec364f4a5d54b81_86cf658e.webp",
     "TaskNotes/Views/tasks-default.base",
     "System/Thumbnails/external/4fe88ce6b152e5c98b0a18666a81dfb2.jpg",
@@ -289,7 +278,6 @@
     "Resources/Clippings/7 Ways to Become a Respected Leader 1.md",
     "Resources/Clippings/7 Ways to Become a Respected Leader.md",
     "Resources/Clippings/7 Phrases That Will Undermine Your Leadership.md",
-    "Resources/Clippings/5 Weekend Habits of Highly Successful People.md",
     "Clippings",
     "1. Inbox/Untitled.md",
     "3. Archives/Appeal SMS Template.md",
