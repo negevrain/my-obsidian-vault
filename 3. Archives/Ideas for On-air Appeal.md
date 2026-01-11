@@ -2,7 +2,7 @@
 Favorite: false
 Related Clients:
   - "[[Darwin’s 97 Seven]]"
-  - "[[2. Content/3. Dare Greatly OS/2. Clients/104.9 Lime FM]]"
+  - "[[104.9 Lime FM 1]]"
 Status: Draft
 Topics:
   - Christian Media

@@ -1,5 +1,5 @@
 ---
-Client: "[[2. Content/3. Dare Greatly OS/2. Clients/David Miles]]"
+Client: "[[David Miles 1]]"
 Session_Date: 2022-10-21
 Session_Number:
 Duration:

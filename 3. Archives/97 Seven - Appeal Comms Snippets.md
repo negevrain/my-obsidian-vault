@@ -3,7 +3,7 @@ tags:
   - fundraising
 Related Clients:
   - "[[Darwin’s 97 Seven]]"
-  - "[[2. Content/3. Dare Greatly OS/2. Clients/104.9 Lime FM]]"
+  - "[[104.9 Lime FM 1]]"
 ---
 Every day, thousands of people listen to Darwin’s 97 Seven. Every day, the lives of people like ________ are changed forever because of songs that speak life into … and it’s all because someone like you gave a gift as an act of love…
 
