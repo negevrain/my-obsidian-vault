@@ -1,6 +1,6 @@
 ---
 categories:
-  - "[[Writing]]"
+  - "[[Inbox/Writing]]"
   - "[[Leadership]]"
 topic: "[[Leadership]]"
 type:
