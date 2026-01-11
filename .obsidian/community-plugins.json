@@ -4,7 +4,6 @@
   "obsidian-excalidraw-plugin",
   "calendar",
   "templater-obsidian",
-  "table-editor-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-style-settings",
   "homepage",
@@ -15,11 +14,12 @@
   "nifty-links",
   "horizontal-blocks",
   "simple-columns",
-  "tag-wrangler",
   "dataview",
   "metadata-menu",
   "obsidian-reminder-plugin",
   "nldates-obsidian",
   "featured-image",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-linter"
 ]
