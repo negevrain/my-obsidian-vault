@@ -13,15 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/20260105 To-Do List.md",
+                "file": "Resources/Categories/Blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260105 To-Do List"
+              "title": "Blog"
+            }
+          },
+          {
+            "id": "aec039e111ad54b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Categories/Dessert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dessert"
+            }
+          },
+          {
+            "id": "e29617f0319322b4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "1. Inbox/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,41 +240,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7943e0345f42993",
+  "active": "e29617f0319322b4",
   "lastOpenFiles": [
-    "1. Inbox/grok-chat 1.md",
-    "1. Inbox/grok-chat.md",
-    "1. Inbox/grok-chat 2.md",
-    "grok-chat.md",
-    "grok-chat 2.md",
-    "grok-chat 1.md",
-    "grok-chat 1.md.txt",
+    "Resources/Categories/Dinner.md",
+    "1. Inbox/Arrange 1-hour meeting with Natasja, Steve and Sandy re Eva’s Place in 2026 — diary entry via Reloop (propose wc 13 or 20 Jan).md",
+    "1. Inbox/Compile board skills audit report for Darwin’s 97 Seven — draft by once inputs received.md",
+    "1. Inbox/Chase up board skills audit submission from Ann Coulter (Darwin’s 97 Seven) — email + clear deadline.md",
+    "1. Inbox/Confirm next coaching session with Mark Demmer — message Monday 5th January; diary entry via HighLevel (aim wc 13 Jan); send pre-session agenda.md",
+    "1. Inbox/Dare Greatly Website - Homepage Copy.md",
+    "1. Inbox/Develop and execute campaign to recruit social media volunteer for D977.md",
+    "1. Inbox/Finalise high-ticket upgrades for Thrive & Flourish programs — outcomes, tiers, guarantees.md",
+    "1. Inbox/Fix formatting for hero section on Dare Greatly homepage (desktop & mobile) — test & deploy.md",
+    "1. Inbox/Goals for 2026.md",
+    "1. Inbox/Grok System Prompt.md",
     "1. Inbox/Home.md",
-    "1. Inbox/20260105 To-Do List.md",
-    "Resources/Categories/Clippings.md",
-    "Resources/Categories/Evergreen.md",
+    "1. Inbox/Truly Effective Leaders.md",
+    "1. Inbox/Send personalised New Year emails to all active and past clients — draft & send (celebrate 2025 wins + invite 15-min clarity call + ThriveFlourish teaser).md",
+    "1. Inbox/Words from God about Being in the Limelight.md",
+    "1. Inbox/Write new copy for Dare Greatly homepage — first draft (tease upgraded Thrive & Flourish).md",
+    "1. Inbox/Update sponsors page on D977 website.md",
+    "Resources/Categories/Writing.md",
+    "1. Inbox/Untitled.md",
+    "Resources/Categories/Leadership.md",
+    "Resources/Categories/Published.md",
+    "Resources/Categories/Dessert.md",
+    "Resources/Categories/Blog.md",
+    "Resources/Categories/Breakfast.md",
+    "Resources/Categories/Drink.md",
+    "1. Inbox/ART OF MENTORING.md",
+    "grok-chat 1.md.txt",
     "System/Thumbnails/external/688ae43a077b4bb611d903649fa379a3.svg",
     "System/Thumbnails/external/7e926ab2aa9948f906cffb945c5874f6.svg",
     "System/Thumbnails/external",
     "2. Content",
     "Resources",
-    "Resources/Categories/People.md",
-    "System/FileClasses/Writing.md",
-    "1. Inbox/Confirm next coaching session with Mark Demmer — message Monday 5th January; diary entry via HighLevel (aim wc 13 Jan); send pre-session agenda.md",
-    "1. Inbox/Dare Greatly Brand Guide.md",
-    "1. Inbox/Untitled.md",
     "New Text Document.txt",
-    "1. Inbox/Breakfast.md",
-    "1. Inbox/Buy Me a Coffee - Social Media Post.md",
-    "1. Inbox/Blog.md",
-    "1. Inbox/Grok System Prompt.md",
-    "1. Inbox/Meet with Steve & Sandy re Kintsugi — diary entry via Reloop (propose wc 13 or 20 Jan).md",
-    "1. Inbox/Arrange 1-hour meeting with Natasja, Steve and Sandy re Eva’s Place in 2026 — diary entry via Reloop (propose wc 13 or 20 Jan).md",
-    "1. Inbox/Send personalised New Year emails to all active and past clients — draft & send (celebrate 2025 wins + invite 15-min clarity call + ThriveFlourish teaser).md",
-    "1. Inbox/Message Michael Boland to schedule or first coaching call for 2026 (explore 2026 ThriveFlourish fit) — diary entry via Reloop.md",
-    "1. Inbox/Finalise high-ticket upgrades for Thrive & Flourish programs — outcomes, tiers, guarantees.md",
-    "1. Inbox/Fix formatting for hero section on Dare Greatly homepage (desktop & mobile) — test & deploy.md",
-    "1. Inbox/Write new copy for Dare Greatly homepage — first draft (tease upgraded Thrive & Flourish).md",
     "1. Inbox/Untitled.base",
     "System/Thumbnails/resized/0e5c14b9068c9d453ac72b25fc803cc6_86cf658e.webp",
     "System/Attachments/Garlic-Herb Chicken Rissoles 4.jpg",
