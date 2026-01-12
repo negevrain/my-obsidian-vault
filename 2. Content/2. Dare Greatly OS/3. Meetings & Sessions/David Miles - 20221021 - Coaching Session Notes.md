@@ -1,4 +1,11 @@
-Coaching session with David Miles 21st of October 2022
+---
+Client: "[[David Miles]]"
+Session_Date: 2022-10-21
+Session_Number:
+Duration: 90 minutes
+Delivery_Mode: In Person
+tags:
+---
 we work shopped the logo for atmospheric are it was good to get closer to the concept that you’re happy with I think we were at least able to pin down the elements that will end up in the final version of the logo we also discussed how to use case studies particularly on the website I love that you’ve got so many strong case studies that you can choose from and the suggestion was that you have one page on the website that is like a repository for all of your strongest case studies and then at strategic strategic spots on the website you will provide an excerpt to a case study so that people who visit the site will have lots of opportunities to explore your successes I’m really thrilled with the leads that you’ve been given at Griffith University and at USQ I’m particularly excited by the ones at USQ because it sounds like those three people are the ones that will provide you with the scientific validation that you’ve been after for some time call Coop out the delay caused by Bill and his team and I appreciate your thoughts on it being good for delay been good I like the fact that allows you to get stuck into the other projects that you’re particularly passionate about especially thinking about Starcom got the other ones as well and I like the idea of having several arms as you said for companies coming out of Miles Research
 We did talk also about the next steps and particularly about the possibility of parking atmospheric car to the side and focusing more intentionally on getting Starcom and the other projects off the ground
 

@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[People]]"
-type:
+people_type:
   - client
 client_type: individual
 client_status: Active

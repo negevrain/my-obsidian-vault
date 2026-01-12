@@ -17,5 +17,6 @@ views:
       - property: file.name
         direction: DESC
     columnSize:
-      note.type: 99
+      file.name: 262
+      note.type: 190
       note.cuisine: 161

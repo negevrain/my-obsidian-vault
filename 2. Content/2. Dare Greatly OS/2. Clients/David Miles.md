@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[People]]"
-type:
+people_type:
   - client
 client_type: individual
 company:
@@ -38,8 +38,8 @@ SORT file.mtime DESC
 
 ```dataview
 
-TABLE file.ctime AS "Date", summary AS "Summary"
-FROM "3. Dare Greatly OS/3. Meetings & Sessions"
+TABLE dateformat(Session_Date, "yyyy-MM-dd") AS "Date", summary AS "Summary"
+FROM "2. Content/2. Dare Greatly OS/3. Meetings & Sessions"
 WHERE contains(client, this.file.link)
 SORT file.ctime DESC
 ```
@@ -57,7 +57,7 @@ SORT file.mtime DESC
 - (insert text)
 
 
-[[Coaching session with David Miles 21st of October 2022|Coaching session with David Miles 21st of October 2022]]
+[[David Miles - 20221021 - Coaching Session Notes|David Miles - 20221021 - Coaching Session Notes]]
 
 [[David Miles - Session Notes|David Miles - Session Notes]]
 

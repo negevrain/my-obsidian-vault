@@ -10,7 +10,6 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "-": 1,
     "0🌲": 2,
     "accomplishment": 3,
     "active": 4,
@@ -123,7 +122,6 @@
     "weirdwednesday": 89,
     "word-from-god": 90,
     "youmakehopepossible": 91,
-    "client/radio": 1,
     "meeting/coaching": 1,
     "reference/article": 1,
     "social-media/post": 1

@@ -5,14 +5,19 @@ filters:
 properties:
   note.client_services:
     displayName: Client Services
+  file.name:
+    displayName: Name
 views:
   - type: table
     name: Table
     groupBy:
-      property: type
+      property: people_type
       direction: ASC
     order:
       - file.name
       - client_services
+    sort:
+      - property: client_services
+        direction: ASC
     columnSize:
       file.name: 115

@@ -2,7 +2,7 @@
 Favorite: false
 Status: Draft
 ---
-#- Post-ministry isolation: Leaving Live FM brought a deep sense of isolation, with little contact from supposed friends, even after outreach.
+Post-ministry isolation: Leaving Live FM brought a deep sense of isolation, with little contact from supposed friends, even after outreach.
 
 - Friend filter: Departure revealed true friends versus professional ties, showing fewer genuine connections than assumed.
 

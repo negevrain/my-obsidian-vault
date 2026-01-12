@@ -1,5 +1,4 @@
 ---
-Favorite: false
 Related Clients:
   - "[[Darwin’s 97 Seven]]"
   - "[[104.9 Lime FM 1]]"

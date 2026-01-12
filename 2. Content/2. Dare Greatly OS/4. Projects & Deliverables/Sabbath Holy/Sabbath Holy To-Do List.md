@@ -9,5 +9,16 @@
 - [ ] Create a new member intro (a message that new members see when they visit the group for the first time)
 - [ ] Every 10th post to the full array of FB groups including Sabbath Holy—include an invite link to visit/join SH…
 - [ ] Suggest contacting group moderators/admins to get permission to include links to SH.
-- [ ] Talk to Rosie about scheduling time to cross reference sabbath holy members and Ray archer friends.
+- [ ] Talcross-referencet scheduling time to cross refArcher sabbath holy members and Ray archer friends.
 - [ ] Check KTSH for overlap of friends.
+
+
+How to work out which of ray Archer FB friends are followers of KTSH…
+
+Research how SuSocial handles FB pages.
+
+Research what we do with visitors to the SH group - how do we invite them to join. Write an acknowledgment and invite message.
+
+Send a report on the value of setting up Telegram. Explain the process, and a brief framework for promotion.
+
+Research creating the right audience profile for FB advertising.

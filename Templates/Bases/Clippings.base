@@ -25,6 +25,7 @@ views:
       - property: created
         direction: DESC
     columnSize:
+      file.name: 384
       note.Author: 199
   - type: table
     name: Author
