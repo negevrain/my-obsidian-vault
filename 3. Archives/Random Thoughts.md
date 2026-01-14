@@ -23,8 +23,5 @@ Whole of life coming under the kingdom of God.
 
 Mission activity ... embracing a way of living that is so joyful that people around us are attracted.
 
-May I be filled with kingdom power and grace. May I have the holy spirit walking alongside me (filled with the power of the HS), helping me, and the inner determination to live the kingdom life.
-
-
 What is the relationship between temperament and mission/evangelism?
 

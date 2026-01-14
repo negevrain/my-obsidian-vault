@@ -50,7 +50,7 @@ develop servant leaders
 
 Focus on Discipleship
 
-Discipleship Pathway Alignment
+[[Discipleship Pathway]] Alignment
 
 Develop a process for maturing disciples at your church so your ministries work in unison
 

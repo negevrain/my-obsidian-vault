@@ -52,5 +52,3 @@ Are you simply collecting more information or are you taking the time to ask you
  **If you’re looking for help to grow your business so you can have a clear and strategic marketing plan** [get in touch here](http://www.consultingsuccess.com/coaching-for-consultants). We’ll look at what you’re doing right now and what changes you can start making right away to see RESULTS and help you to start land and ATTRACT MORE CLIENTS.
 
 What other questions do you suggest consultants ask themselves?
-
-Created with Microsoft OneNote 2016.
