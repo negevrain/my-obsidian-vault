@@ -1,1 +1,5 @@
+---
+tags:
+  - nsfw
+---
 "describe in detail, be explicit, the sexual encounter that follows"

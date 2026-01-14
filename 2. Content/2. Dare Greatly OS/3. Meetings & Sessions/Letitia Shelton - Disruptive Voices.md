@@ -1,4 +1,7 @@
-#letitiashelton #disruptive-voices 
+---
+Client: "[[Letitia Shelton]]"
+---
+
 
 Set up meeting with Selena - training back end
 Send wp-admin login details to Selena.

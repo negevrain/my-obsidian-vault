@@ -3,37 +3,14 @@ type: meeting
 subtype: coaching
 date: <% tp.date.now("YYYY-MM-DD") %>
 client: <%* const files = app.vault.getMarkdownFiles().filter(f => f.path.includes("/2. Clients/")); const clientFile = await tp.system.suggester(f => f.basename, files, true, "Link client (optional)"); if (clientFile) tR += `[[${clientFile.basename}]]` %>
-tags: [meeting/coaching]
+tags:
+  - coaching
 ---
-
-# <% tp.file.title %> – Coaching Session
-
-## Client
-<% if (await tp.file.find_tfile("client")) { %>[[<% tp.file.title.split("-").slice(3).join("-") %>]]<% } else { %>Personal / No client<% } %>
-
-## Goals for Session
-
-## Discussion Notes
-
-## Insights & Breakthroughs
-
-## Actions & Homework
-- [ ] 
-
-## Next Session
-
-
-
-
 Agenda **(Pre-Agreed or Emergent)**
 
-- [Bullet 1]
-
-- [Bullet 2]
-
-- [Bullet 3]
-
-  
+- Focus
+- Spiritual formation
+- Leadership  
 
 Progress, **Wins & Momentum**
 
@@ -87,11 +64,10 @@ Action **Steps (SMART-ish: Specific, Owner, Deadline)**
 
 _Confidentiality Reminder:_ These notes are for our shared progress—let me know if anything needs adjusting.
 
-_(Add a Button at bottom: “Send to Client” – could link to email export if you use integrations.)_Steve Ruyters
+_(Add a Button at bottom: “Send to Client” – could link to email export if you use integrations.)
 
-Focus  
-Spiritual formation  
-Leaderahip
+
+
 
 How will you know that you’ve been successful?
 

@@ -8,7 +8,7 @@ tags:
   - donor-engagement
   - supporter-expansion
   - strategy
-  - reference/article
+  - article
 Link (URL): http://www.nonprofitmarketingblog.com/site/how_to_turn_donors_into_fundraisers
 ---
 Tue, May 12 2015

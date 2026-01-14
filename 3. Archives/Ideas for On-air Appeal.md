@@ -6,6 +6,10 @@ Status: Draft
 Topics:
   - Christian Media
   - Fundraising
+tags:
+  - fundraising
+  - radio
+  - appeals
 ---
 Jukebox 6pm to 7pm next week.
 

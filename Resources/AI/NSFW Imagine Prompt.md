@@ -1,3 +1,7 @@
+---
+tags:
+  - nsfw
+---
 I don’t know what everyone on about I can get nudity in all sorts of ways easily, it’s the sex and other things like, handjobs, blowjobs, footjobs, etc that are harder, like for example I would type
 
 stunning woman 1000% naked, larger perky naturals, large bum, natural body, stunning skin.

@@ -1,13 +1,13 @@
 ---
-title: "Radio Programmer Steve Warren On Functional Music Scheduling | Radio))) ILOVEIT"
-source: "https://radioiloveit.com/radio-music-research-music-scheduling-software/radio-programmer-steve-warren-on-functional-music-scheduling/"
+title: Radio Programmer Steve Warren On Functional Music Scheduling | Radio))) ILOVEIT
+source: https://radioiloveit.com/radio-music-research-music-scheduling-software/radio-programmer-steve-warren-on-functional-music-scheduling/
 author:
   - "[[Thomas Giger]]"
-published: 2014-10-21
+Published: 2014-10-21
 created: 2026-01-04
-description: "Music director, radio programmer and Music 1 developer Steve Warren shares music scheduling advice on song rotations, program flow and scheduling rules."
+description: Music director, radio programmer and Music 1 developer Steve Warren shares music scheduling advice on song rotations, program flow and scheduling rules.
 tags:
-  - "clippings"
+  - clippings
 ---
 **Your music scheduling software should not work like a Rube Goldberg device, veteran music radio programmer and Music 1 developer Steve Warren says.**
 

@@ -33,6 +33,7 @@
     "start_date": "date",
     "health_score": "number",
     "categories": "multitext",
-    "date-added": "date"
+    "date-added": "date",
+    "topic": "multitext"
   }
 }

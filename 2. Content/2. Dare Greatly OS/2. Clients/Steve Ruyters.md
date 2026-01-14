@@ -11,8 +11,7 @@ contact_email:
 contact_phone:
 next_follow_up: 2025-01-15
 tags:
-  - radio
-client_services: Supervision
+Client Services: Supervision
 ---
 # Steve Ruyters
 
@@ -35,7 +34,7 @@ SORT file.mtime DESC
 ```dataview
 
 TABLE file.ctime AS "Date", summary AS "Summary"
-FROM "3. Meetings & Sessions"
+FROM "2. Content/2. Dare Greatly OS/3. Meetings & Sessions"
 WHERE contains(client, this.file.link)
 SORT file.ctime DESC
 ```

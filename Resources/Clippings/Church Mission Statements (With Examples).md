@@ -3,7 +3,7 @@ title: Church Mission Statements (With Examples)
 source: https://careynieuwhof.com/church-mission-statements/
 author:
   - "[[Carey Nieuwhof]]"
-published: 2025-03-29
+Published: 2025-03-29
 created: 2026-01-08
 description: Learn how to write a compelling church mission statement, understand the difference between vision and values, and get inspiring real-world examples.
 tags:

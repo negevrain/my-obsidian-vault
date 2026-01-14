@@ -1,66 +1,27 @@
 {
   "main": {
-    "id": "2f119eb433821657",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "fdebf9d11ec3eb22",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fc2005b4a63be19c",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
-            "id": "0df41d178cf46cdb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Content/2. Dare Greatly OS/2. Clients/Josh Lane.md",
+                "file": "3. Archives/5 Questions Every Consultant Should Ask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Josh Lane"
-            }
-          },
-          {
-            "id": "ff5a091535475f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Categories/People.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "People"
-            }
-          },
-          {
-            "id": "206acf493125c75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Categories/Albums.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Albums"
+              "title": "5 Questions Every Consultant Should Ask"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,10 +55,10 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -119,7 +80,7 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
+              "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
           }
@@ -127,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 387.5
   },
   "right": {
     "id": "4a45426ccd57b509",
@@ -240,8 +201,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -274,34 +235,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "206acf493125c75b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Resources/Clippings/Donor Fatigue is a myth.md",
-    "Resources/Clippings/Music Discovery is Overrated.md",
-    "3. Archives/Music selection policy.md",
-    "3. Archives/Music Discovery is Overrated  Mark Ramsey Media LLC.md",
-    "3. Archives/Juice1073 - Appeal SMS.md",
-    "3. Archives/Insights from 99.9 Live FM Goals.md",
-    "3. Archives/Insights from Hot Tomato’s 2015 Ratings Win.md",
-    "3. Archives/Jesus’ Purpose.md",
-    "3. Archives/If You're Guilty of the Following, Chances Are Everyone Hates Your Emails  Inc.com.md",
-    "3. Archives/Ideas for On-air Appeal.md",
-    "3. Archives/Idea for a new organisation.md",
-    "3. Archives/I'm Desperate.md",
-    "3. Archives/I want to be useful to you.md",
-    "3. Archives/How to Turn Donors into Fundraisers.md",
-    "3. Archives/He will already know you.md",
-    "3. Archives/Healthy Ministries Questionnaire.md",
-    "3. Archives/High Ticket Coaching Program.md",
-    "3. Archives/God's kingdom is like a bunch of outcasts and oddballs.md",
-    "3. Archives/Framework for Proposals.md",
-    "3. Archives/Fail Pursuing Extraordinary….md",
-    "3. Archives/FAMILY FORUM.md",
-    "3. Archives/Email to Live FM Team Announcing My Resignation 1.md",
-    "3. Archives/Email to Mark Demmer re Behaviour.md",
-    "3. Archives/Email Template - Complaint about Music.md",
-    "3. Archives/Elements of a Code of Ethics 1.md",
-    "3. Archives/edge of certainty.md",
+    "1. Inbox/Untitled.base",
+    "2. Content/2. Dare Greatly OS/3. Meetings & Sessions/2025-XX-XX_Session Notes.md",
+    "1. Inbox/Truly Effective Leaders.md",
+    "1. Inbox/Goals for 2026.md",
+    "1. Inbox/Dare Greatly Website - Homepage Copy.md",
+    "1. Inbox/Dare Greatly Brand Guide.md",
+    "1. Inbox/Home.md",
+    "2. Content/2. Dare Greatly OS/5. Knowledge Vault/Sponsorship/72 Hour Sale.md",
+    "2. Content/3. Writing Hub/5 leadership lessons from the captaincy of Usman Khawaja.md",
+    "Resources/AI/Untitled 8 1.md",
+    "Resources/AI/Untitled 11.md",
+    "Resources/AI/Untitled 5.md",
+    "Resources/AI/Untitled 4.md",
+    "Resources/AI/Untitled 1 1.md",
+    "Resources/AI/Untitled 4 2.md",
+    "Resources/AI/Untitled 3 2.md",
+    "Resources/AI/Untitled 2 2.md",
+    "Resources/AI/Travel Prompts 1.md",
+    "Resources/AI/Travel Prompts.md",
+    "Resources/AI/The Priority Matrix Prompt.md",
+    "Resources/AI/The Priority Matrix Prompt 1.md",
+    "Resources/AI/The Meeting-to-Action Converter.md",
+    "Resources/AI/The Context Switch Eliminator.md",
+    "Resources/AI/System Prompt Notebook - The Context Window Auditor & Idea Extractor 1.md",
+    "Resources/AI/System Prompt Notebook - The Context Window Auditor & Idea Extractor.md",
+    "Resources/AI/Purpose-Subject-Object Prompt for Grok.md",
+    "System/Attachments/Heavy Metal List 4",
+    "Resources/AI",
     "Clippings",
     "3. Archives/Untitled.canvas",
     "3. Archives/Untitled 1.base",
@@ -316,9 +279,6 @@
     "System/Attachments/image.jpeg",
     "Templates/Bases/Writing.base",
     "Templates/Bases/Recipes.base",
-    "Templates/Bases/People.base",
-    "Templates/Bases/Leadership.base",
-    "Templates/Bases/Clippings.base",
     "System/Thumbnails/resized/3ee512b4411c44140ec364f4a5d54b81_86cf658e.webp",
     "System/Thumbnails/external/4fe88ce6b152e5c98b0a18666a81dfb2.jpg",
     "System/Thumbnails/resized/5c208f9c2fd5b81108076dc8d74131a6_86cf658e.webp",

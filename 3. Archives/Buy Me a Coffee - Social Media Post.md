@@ -1,16 +1,15 @@
 ---
 tags:
-  - social-media/post
+  - social-media
   - posted
-  - archive
 writing_status:
   - published
+  - "[[Published]]"
 created: 2025-12-30
 aliases:
   - Buy Me a Coffee Ask
   - Pro Bono Support Post
 categories:
-status-1: "[[Published]]"
 ---
 Bold ask coming!
 

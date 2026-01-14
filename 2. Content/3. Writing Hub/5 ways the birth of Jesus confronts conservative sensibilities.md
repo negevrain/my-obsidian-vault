@@ -1,3 +1,7 @@
+---
+categories:
+  - "[[Resources/Categories/Writing]]"
+---
 He was born out of wedlock
 
 Mary was an adolescent - said to be 12-14 years old…

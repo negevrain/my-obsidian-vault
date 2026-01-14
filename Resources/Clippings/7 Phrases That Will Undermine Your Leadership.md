@@ -3,7 +3,7 @@ title: 7 Phrases That Will Undermine Your Leadership
 source: https://www.inc.com/lolly-daskal/7-fatal-phrases-that-will-undermine-your-leadership.html
 author:
   - "[[Lolly Daskal]]"
-published: 2015-06-03
+Published: 2015-06-03
 created: 2026-01-08
 description: Sometimes the hardest thing about communication is hearing your own words. Here are some to think about--and eliminate.
 tags:

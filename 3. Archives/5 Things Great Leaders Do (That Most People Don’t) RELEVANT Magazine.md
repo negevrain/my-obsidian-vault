@@ -3,6 +3,12 @@ Favorite: false
 Status: Draft
 Topics:
   - Leadership
+tags:
+  - leadership
+  - christian-leadership
+  - followership
+categories:
+  - "[[Writing]]"
 ---
 By [Aaron Loy](http://www.relevantmagazine.com/user/276712)
 

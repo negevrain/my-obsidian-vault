@@ -3,12 +3,16 @@ title: Mentoring People with Autism
 source: https://artofmentoring.net/autism/
 author:
   - "[[ART OF MENTORING]]"
-published: 2019-03-27
+Published: 2019-03-27
 created: 2026-01-02
 description: In mentoring someone on the spectrum, it is important to remember that everyone is different and the way autism is expressed varies greatly.
 tags:
   - clippings
-categories: Clippings
+categories:
+  - "[[Clippings]]"
+Topics:
+  - "[[mentoring]]"
+  - "[[autism]]"
 ---
 [![Art of Mentoring corporate logo, flying geese colored version](https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://artofmentoring.net/wp-content/uploads/2019/10/Logo.png)](https://artofmentoring.net/)
 

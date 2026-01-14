@@ -3,7 +3,7 @@ title: 7 Ways to Become a Respected Leader
 source: https://leadershipfreak.blog/2015/05/20/7-ways-to-become-a-respected-leader/?amp=1
 author:
   - "[[Dan Rockwell]]"
-published: 2015-05-20
+Published: 2015-05-20
 created: 2026-01-08
 description: You don’t need position when people respect you.
 tags:

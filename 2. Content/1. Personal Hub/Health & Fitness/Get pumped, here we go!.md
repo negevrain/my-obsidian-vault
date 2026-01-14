@@ -3,6 +3,8 @@ Favorite: false
 Status: Draft
 tags:
   - fitness
+feature: System/Attachments/image.jpeg
+thumbnail: ""
 ---
 **Day 1 Workout: Upper Body**  
 

@@ -3,7 +3,7 @@ title: "[Guest Post] Communicate More Often to Renew More Donors"
 source: https://fundraisingcoach.com/2015/08/13/communicate-renew-donors/#
 author:
   - "[[Marc A. Pitman]]"
-published: 2015-08-14
+Published: 2015-08-14
 created: 2026-01-04
 description: Nonprofits often feel overwhelmed with all the communication channels open to them. Dennis Fischman shows you how to serve donors by simplifying!
 tags:

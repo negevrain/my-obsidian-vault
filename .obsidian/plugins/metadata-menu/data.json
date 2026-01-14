@@ -44,8 +44,8 @@
     {
       "name": "Writing",
       "id": "1",
-      "query": "dv.pages().where(p => p.categories && p.categories.includes(\"Writing\"))",
-      "fileClassName": "Writing"
+      "query": "dv.pages().where(p => {\n    const cats = p.categories;\n    if (!cats) return false;\n    if (typeof cats === \"string\") return cats === \"Writing\";\n    if (Array.isArray(cats)) return cats.includes(\"Writing\");\n    return false;\n  })",
+      "fileClassName": "FC_Writing"
     }
   ],
   "displayFieldsInContextMenu": true,

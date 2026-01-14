@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources/Categories/Recipes|Recipes]]"
-cuisine: Australian-inspired
+Cuisine: Australian-inspired
 type:
   - "[[Dinner]]"
 Link (URL):

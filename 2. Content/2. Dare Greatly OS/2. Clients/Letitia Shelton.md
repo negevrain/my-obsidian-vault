@@ -11,7 +11,7 @@ contact_email:
 contact_phone:
 client_status: Active
 health_score:
-client_services:
+Client Services:
 billing_rate:
 start_date:
 next_follow_up: 2025-01-15
@@ -39,7 +39,7 @@ SORT file.mtime DESC
 ```dataview
 
 TABLE dateformat(Session_Date, "yyyy-MM-dd") AS "Date", summary AS "Summary"
-FROM "3. Dare Greatly OS/3. Meetings & Sessions"
+FROM "2. Contents/2. Dare Greatly OS/3. Meetings & Sessions"
 WHERE contains(client, this.file.link)
 SORT file.ctime DESC
 ```

@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources/Categories/Recipes|Recipes]]"
-cuisine: Asian-inspired
+Cuisine: Asian-inspired
 type:
   - "[[Dinner]]"
 source: Created by Ivan with Copilot

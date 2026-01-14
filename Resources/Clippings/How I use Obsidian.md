@@ -3,7 +3,7 @@ title: How I use Obsidian
 source: https://stephango.com/vault
 author:
   - "[[Steph Ango]]"
-published:
+Published:
 created: 2026-01-02
 description: My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 tags:

@@ -3,7 +3,7 @@ title: 5 Weekend Habits of Highly Successful People
 source: https://www.inc.com/rhett-power/5-weekend-habits-of-highly-successful-people.html
 author:
   - "[[Rhett Power]]"
-published: 2015-05-14
+Published: 2015-05-14
 created: 2026-01-08
 description: What happens between Friday night and Monday morning? Do successful people keep working hard, or do they completely unplug?
 tags:

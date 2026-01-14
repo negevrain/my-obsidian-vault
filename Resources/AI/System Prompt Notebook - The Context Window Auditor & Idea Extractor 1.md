@@ -1,5 +1,4 @@
 ---
-Favorite: false
 Status: Draft
 ---
 (https://www.substack.com/@betterthinkersnotbetterai)  

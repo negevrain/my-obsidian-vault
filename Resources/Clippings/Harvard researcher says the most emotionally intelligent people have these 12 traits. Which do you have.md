@@ -4,7 +4,7 @@ source: https://www.cnbc.com/2020/06/09/harvard-psychology-researcher-biggest-tr
 author:
   - "[[Daniel Goleman]]"
   - "[[Contributor]]"
-published: 2020-06-10
+Published: 2020-06-10
 created: 2026-01-08
 description: "Emotional intelligence isn't all about being sweet and chipper, says Harvard psychologist and researcher Daniel Goleman. Every moment is an opportunity to strengthen these overlooked skills that will lead you to greater success. So ask yourself: What are your strengths? Where could you use improvement?"
 tags:

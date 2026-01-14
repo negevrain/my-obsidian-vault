@@ -3,7 +3,7 @@ title: 7 Expert Ways to Better Manage Cash Flow
 source: https://www.inc.com/shama-hyder/7-expert-ways-to-better-manage-cash-flow.html
 author:
   - "[[Shama Hyder]]"
-published: 2016-07-22
+Published: 2016-07-22
 created: 2026-01-04
 description: Cash flow is king, but how exactly do you strike the right balance?
 tags:

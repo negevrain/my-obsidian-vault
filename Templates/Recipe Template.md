@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources/Categories/Recipes|Recipes]]"
-cuisine:
+Cuisine:
 type:
   - "[[Dessert]]"
 source:

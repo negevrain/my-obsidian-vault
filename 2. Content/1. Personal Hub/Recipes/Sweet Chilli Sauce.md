@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources/Categories/Recipes|Recipes]]"
-cuisine: "[[Thai]]"
+Cuisine: "[[Thai]]"
 type:
   - "[[Condiment]]"
   - "[[Sauce]]"

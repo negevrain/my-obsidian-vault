@@ -5,7 +5,7 @@ people_type:
   - client
 client_type: individual
 client_status: Active
-client_services: Consulting
+Client Services: Consulting
 company:
   - - Company-XYZ
 health-score: ""

@@ -1,13 +1,13 @@
 ---
-title: "Music Discovery is Overrated"
-source: "https://web.archive.org/web/20160329051711/http://www.markramseymedia.com/2015/05/music-discovery-is-overrated/"
+title: Music Discovery is Overrated
+source: https://web.archive.org/web/20160329051711/http://www.markramseymedia.com/2015/05/music-discovery-is-overrated/
 author:
   - "[[[[Google Plus]]]]"
-published:
+Published:
 created: 2026-01-12
-description: "Last week Seth Godin penned a piece titled \"Discovery Fatigue.\" In it he argued that a little bit of discovery goes a long way, and the zeal to discover at the"
+description: Last week Seth Godin penned a piece titled "Discovery Fatigue." In it he argued that a little bit of discovery goes a long way, and the zeal to discover at the
 tags:
-  - "clippings"
+  - clippings
 categories: "[[clippings]]"
 ---
 The Wayback Machine - https://web.archive.org/web/20160329051711/http://www.markramseymedia.com/2015/05/music-discovery-is-overrated/

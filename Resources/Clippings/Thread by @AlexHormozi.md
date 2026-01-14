@@ -3,7 +3,7 @@ title: Thread by @AlexHormozi
 source: https://x.com/alexhormozi/status/1851247537845592261?s=46
 author:
   - "[[@AlexHormozi]]"
-published: 2024-10-29
+Published: 2024-10-29
 created: 2026-01-02
 description:
 tags:

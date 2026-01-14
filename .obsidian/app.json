@@ -34,5 +34,6 @@
   ],
   "livePreview": true,
   "vimMode": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "propertiesInDocument": "visible"
 }

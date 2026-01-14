@@ -1,10 +1,9 @@
 ---
 categories:
-  - "[[Resources/Categories/Writing]]"
-  - "[[Leadership]]"
-topic: "[[Leadership]]"
+  - "[[Writing]]"
 type:
   - "[[Blog]]"
+topic: "[[Leadership]]"
 status: draft
 date: 2026-01-04
 tags:

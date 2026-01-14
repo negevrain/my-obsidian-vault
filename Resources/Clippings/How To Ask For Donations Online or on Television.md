@@ -1,13 +1,13 @@
 ---
-title: "How To Ask For Donations Online or on Television"
-source: "https://www.philcooke.com/how-to-ask-for-donations-online-or-on-television/"
+title: How To Ask For Donations Online or on Television
+source: https://www.philcooke.com/how-to-ask-for-donations-online-or-on-television/
 author:
   - "[[Phil Cooke]]"
-published: 2023-05-09
+Published: 2023-05-09
 created: 2026-01-04
-description: "Facebook X.com LinkedIn Pastors and nonprofit leaders have always taken a lot of heat when asking for financial support. After all, projects of any size cost money, whether it’s providing clean water in India, supporting orphans in Eastern Europe, helping the homeless, building a museum, or preaching the gospel anywhere – whatever ministry you feel …"
+description: Facebook X.com LinkedIn Pastors and nonprofit leaders have always taken a lot of heat when asking for financial support. After all, projects of any size cost money, whether it’s providing clean water in India, supporting orphans in Eastern Europe, helping the homeless, building a museum, or preaching the gospel anywhere – whatever ministry you feel …
 tags:
-  - "clippings"
+  - clippings
 ---
 ![](https://www.philcooke.com/wp-content/uploads/2023/05/IMG_1306-rotated-e1683584533918-1-780x470.jpg)
 

@@ -1,13 +1,13 @@
 ---
-title: "6 Questions to Ask a Job Applicant to Ensure a Cultural Fit"
-source: "https://www.inc.com/suzanne-lucas/6-questions-to-ask-a-job-applicant-to-ensure-a-cultural-fit.html?cid=sf01001"
+title: 6 Questions to Ask a Job Applicant to Ensure a Cultural Fit
+source: https://www.inc.com/suzanne-lucas/6-questions-to-ask-a-job-applicant-to-ensure-a-cultural-fit.html?cid=sf01001
 author:
   - "[[[[Suzanne Lucas]]]]"
-published: 2015-06-03
+Published: 2015-06-03
 created: 2026-01-12
-description: "You want someone who can work well in your office--not someone to be your new best friend. Here's how to get that person."
+description: You want someone who can work well in your office--not someone to be your new best friend. Here's how to get that person.
 tags:
-  - "clippings"
+  - clippings
 categories: "[[clippings]]"
 ---
 [Nominate your company for the 2026 Inc. 5000!Apply now.](https://events.inc.com/inc5000-applications)

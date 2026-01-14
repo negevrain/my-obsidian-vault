@@ -1,13 +1,13 @@
 ---
-title: "10 Ways to Become the Leader Others Value"
-source: "https://leadershipfreak.blog/2014/06/01/10-ways-to-become-the-leader-others-value/"
+title: 10 Ways to Become the Leader Others Value
+source: https://leadershipfreak.blog/2014/06/01/10-ways-to-become-the-leader-others-value/
 author:
   - "[[[[Dan Rockwell]]]]"
-published: 2014-06-02
+Published: 2014-06-02
 created: 2026-01-12
-description: "It’s not \"just\" business."
+description: It’s not "just" business.
 tags:
-  - "clippings"
+  - clippings
 categories: "[[clippings]]"
 ---
 It’s not “just” business.

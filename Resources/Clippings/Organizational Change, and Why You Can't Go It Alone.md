@@ -1,13 +1,13 @@
 ---
-title: "Organizational Change, and Why You Can't Go It Alone"
-source: "https://www.inc.com/brent-gleeson/organizational-change-and-why-you-cant-go-it-alone.html"
+title: Organizational Change, and Why You Can't Go It Alone
+source: https://www.inc.com/brent-gleeson/organizational-change-and-why-you-cant-go-it-alone.html
 author:
   - "[[Brent Gleeson]]"
-published: 2017-02-14
+Published: 2017-02-14
 created: 2026-01-04
-description: "Driving positive change in an organization can be tough. Build a strong team to help lead the way."
+description: Driving positive change in an organization can be tough. Build a strong team to help lead the way.
 tags:
-  - "clippings"
+  - clippings
 ---
 [Lead](https://www.inc.com/lead)
 

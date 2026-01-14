@@ -3,7 +3,7 @@ title: Donor Fatigue is a myth
 source: https://fundraisingcoach.com/2015/05/20/donor-fatigue-myth/
 author:
   - "[[Marc A. Pitman]]"
-published: 2015-05-21
+Published: 2015-05-21
 created: 2026-01-04
 description: I firmly believe "donor fatigue" is a cop out, not a reality. In this quick video, I tell you why. And I give you a free tool to fix your next fundraising letter.
 tags:

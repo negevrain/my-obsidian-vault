@@ -11,7 +11,7 @@ contact_email:
 contact_phone:
 client_status: Active
 health_score:
-client_services: Coaching
+Client Services: Coaching
 billing_rate:
 start_date:
 next_follow_up: 2025-01-15
