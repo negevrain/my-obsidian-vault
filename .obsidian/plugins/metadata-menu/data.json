@@ -50,7 +50,7 @@
   ],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": "System/FileClasses/",
+  "classFilesPath": "6. System/FileClasses/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
   "settingsVersion": "5.2",

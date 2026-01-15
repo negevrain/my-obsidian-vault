@@ -1,7 +1,7 @@
 {
   "showNotificationsOnUpdate": true,
   "frontmatterProperty": "feature",
-  "thumbnailsFolder": "System/Thumbnails",
+  "thumbnailsFolder": "6. System/Thumbnails",
   "excludedFolders": [],
   "createResizedThumbnail": true,
   "resizedFrontmatterProperty": "thumbnail",

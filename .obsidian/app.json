@@ -8,7 +8,7 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "System/Attachments",
+  "attachmentFolderPath": "6. System/Attachments",
   "mobileToolbarCommands": [
     "editor:undo",
     "editor:redo",
@@ -35,5 +35,7 @@
   "livePreview": true,
   "vimMode": false,
   "trashOption": "local",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0. Inbox"
 }

@@ -16,7 +16,7 @@
   "editing-toolbar",
   "featured-image",
   "obsidian-linter",
-  "notebook-navigator",
   "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "notebook-navigator"
 ]

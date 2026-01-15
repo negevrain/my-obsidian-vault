@@ -1,5 +1,0 @@
----
----
-* Roger Moore
-
-* Uncle George
